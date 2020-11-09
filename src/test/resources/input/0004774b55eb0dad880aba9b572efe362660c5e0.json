@@ -1,0 +1,1831 @@
+{
+    "paper_id": "0004774b55eb0dad880aba9b572efe362660c5e0",
+    "metadata": {
+        "title": "Disaster Perceptions",
+        "authors": []
+    },
+    "abstract": [],
+    "body_text": [
+        {
+            "text": ". So, if there is no singular definition of risk, how can it be comprehended? To begin, one must become exposed to the debates that surround the controversial term. One such debate is whether risk is socially constructed. Is it objective and measureable, or subjective and immeasurable, and to what degree? To clarify, the objective perspective is referred to as the rationalist approach, and the subjective perspective is referred to as the constructionist approach (Etkin 2016). The rationalist approach puts emphasis on scientific management, statistics, and decision theory in order to control risk. The constructionist approach suggests that \"nothing is a risk in itself, but rather that it is a product of cultural, political, social and historical ways of seeing\". The above-mentioned debate is one of major standing in the field of risk; however, risk does in fact reflect upon both perspectives. If risk is socially constructed, society has made decisions which have inadvertently determined who is at risk and what the risks are. There are several factors contributing to socially constructed risk, such as minorities, education, disability, elderly and children, poverty, and health (Pine 2009) . A well-developed example of a socially constructed risk faced by many in urbanized areas has been provided by Etkin (2016) in the quote:",
+            "cite_spans": [
+                {
+                    "start": 1194,
+                    "end": 1205,
+                    "text": "(Pine 2009)",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 1318,
+                    "end": 1330,
+                    "text": "Etkin (2016)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Allowing housing construction near hazardous chemical plants is a social/political decision that puts people who live there in harm's way. The proximity of residential areas to hazardous industrial ones has become increasingly important due to urban growth.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "When a person is exposed to a risk, they do not respond to that risk directly; rather they respond to their own perception of that risk. Generally speaking, the average person (non-expert) relies on intuition to assess a risk; this concept is referred to as risk perception. Within social groups, acting powers \"downplay certain risks and emphasize others as a means of maintaining and controlling the group\" (Slovic 1987) . A common perception found within many industrialized nations is the belief that people are presently exposed to a higher degree of risk than traditionally faced in the past, and risks to be faced in the future will be larger than present risk (Schneider et al. 2006; Etkin and Haque 2003) . The above is a general statement, attempting to express the common beliefs of the population. There is, however, two viewpoints of risk not mentioned in the above-mentioned common perception: lay judgment of risk and expert judgement of risk. Lay judgement is generally a rights-based approach that focuses on justice, uncertainty, who benefits from the risk, who is at risk, and dread. It is important to note that expert judgement is prone to the same biases as laypeople, especially if the experts \"are forced to go beyond the limits of available data and rely on intuition\" (Slovic 1987) . With that being said, members of the public sometimes do not possess all of the information relating to a certain hazard, and therefore can be misinformed. It is beneficial to embrace both the public and expert viewpoints in order to develop a well-rounded grasp on risk, as both views offer unique intelligence and insight (in H\u00e9bert 2016) .",
+            "cite_spans": [
+                {
+                    "start": 409,
+                    "end": 422,
+                    "text": "(Slovic 1987)",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 668,
+                    "end": 691,
+                    "text": "(Schneider et al. 2006;",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 692,
+                    "end": 713,
+                    "text": "Etkin and Haque 2003)",
+                    "ref_id": null
+                },
+                {
+                    "start": 1294,
+                    "end": 1307,
+                    "text": "(Slovic 1987)",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 1634,
+                    "end": 1650,
+                    "text": "(in H\u00e9bert 2016)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Research suggests that one of the greatest influences on risk perception is cultural factors causing a distortion of perception that can travel between social groups, potentially distorting the actual/realistic threats. Risk perception is fueled by people's experiences (or lack-of), emotions, and social and cultural factors of the community, along with numerous influencers. Each individual experiences and perceives risk differently and therefore makes it difficult to truly define the concept (Gierlach et al. 2010; ISDR 2004; GTZ 2004) . Risk perception is influenced by direct or indirect experiences of activities, events, and/or technologies; for example, receiving information from news sources, or witnessing a natural disaster such as a severe flood. The characteristics of potential dangers associated with a risk also heavily influences risk perception. People tend to believe that rare, sensational events pose a higher level of risk than more conventional events. People's judgements of risk stem from social learning, peer influences and cultural practices, and are continuously exposed to media reports and other processes of communication. Similar to risk, risk perception is viewed differently by each individual depending on the following factors: the type of risk, the context of the risk, the social context, and the individual's personality. An individual's perception of risk is a motivator, urging community members to spring in to action mitigate, avoid, and adapt to risks (Wachinger et al. 2013) .",
+            "cite_spans": [
+                {
+                    "start": 497,
+                    "end": 519,
+                    "text": "(Gierlach et al. 2010;",
+                    "ref_id": null
+                },
+                {
+                    "start": 520,
+                    "end": 530,
+                    "text": "ISDR 2004;",
+                    "ref_id": null
+                },
+                {
+                    "start": 531,
+                    "end": 540,
+                    "text": "GTZ 2004)",
+                    "ref_id": null
+                },
+                {
+                    "start": 1500,
+                    "end": 1523,
+                    "text": "(Wachinger et al. 2013)",
+                    "ref_id": "BIBREF35"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Some risk analysts regard perception as invalid because they arise from subjective influences. But, to the general public, perception are the only relevant views because they incorporate the expert's analysis together with individual judgement based on individual experience, social context and other factors. The public also suspects that limits exist to what experts know a suspicion that is justified in certain cases (Sj\u00f6berg 2001) . Table 5 .1 (Smith 2004) analyses differences between risk assessment and risk perception.",
+            "cite_spans": [
+                {
+                    "start": 421,
+                    "end": 435,
+                    "text": "(Sj\u00f6berg 2001)",
+                    "ref_id": "BIBREF26"
+                },
+                {
+                    "start": 449,
+                    "end": 461,
+                    "text": "(Smith 2004)",
+                    "ref_id": "BIBREF29"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 438,
+                    "end": 445,
+                    "text": "Table 5",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": ""
+        },
+        {
+            "text": "Lay people perceive hazards differently from technical experts for a variety of reasons, including geographical location and aspects of their personality. For example, rural dwellers often perceive flood hazard perception closer to objectively derived estimates than urban dwellers (Smith 2004; Nirupama and Simonovic 2007; Nirupama et al. 2014) . Group perceptions can easily be influenced by social or cultural factors as the influence of personality is exercised mainly through the so-called 'locus of control'. This classifies people according to the extent that they believe hazardous events are dependent on fate (external control) or within their own responsibility (internal control). In order to reduce the stress associated with uncertainty, hazard perceivers tend to adopt certain recognizable models of risk perception with which they are more comfortable. These can be grouped into three basic types, all of which conflict with more objective risk analysis (Smith 2004 ):",
+            "cite_spans": [
+                {
+                    "start": 282,
+                    "end": 294,
+                    "text": "(Smith 2004;",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 295,
+                    "end": 323,
+                    "text": "Nirupama and Simonovic 2007;",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 324,
+                    "end": 345,
+                    "text": "Nirupama et al. 2014)",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 970,
+                    "end": 981,
+                    "text": "(Smith 2004",
+                    "ref_id": "BIBREF29"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "\u2022 Determinate perception: people having determinate perception believe that extreme events, such as earthquakes and flash flooding do exist but they occur in a certain pattern. \u2022 Dissonant perception: people having dissonant perception believe that natural hazards are freak events that are unlikely to be repeated. \u2022 Probabilistic perception: people having probabilistic perception accept that natural hazards exist and they maybe random events. Therefore, they do not see any benefit in doing anything about something that is an Act of God. If decision makers responsible for disaster mitigation happen to hold probabilistic perception, they may not support investing of resources in mitigation measures.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Social amplification of risk occurs when relatively minor threats elicit a disproportionately strong degree of public concern as demonstrated in Table 5. 2 (Kasperson et al. 1988) . Risks are taken more seriously if they are understood by people as life-threatening, immediate, and direct. This means that an earthquake, a rapid onset event, is normally rated more seriously than a drought, a slow onset hazard. Risk is also perceived to be higher if children are at risk in comparison with seniors. Additionally, lack of understanding of complex technologies associated with factories and chemical industries in the vicinity leads to fear and distrust in technical experts and the authorities. Currently ongoing environmental and climate Adapted from Whyte and Burton (1982) , Smith (2004) change concerns are perceived differently by younger generation than older people whose priorities tend to be around health and safety issues (Fischer et al. 1991) . Awareness is heightened when public health is at stake. For example, the city of Flint, Michigan is facing in the worst public health crisis seen to date in the United States. With Flint's struggling economy, in 2014 the local government officials made a decision to switch the water from being supplied by Lake Huron and pre-treated in Detroit, to be supplied by the Flint River without adding in the anticorrosive agent in order to save the city money. The decision to not add in the anticorrosive agent would cascade in to a major health disaster as entire region was exposed to lead poisoning, as well as exposure to Legionella bacteria for 18 months. The health effects this water crisis caused Flint was unimaginable to the community. The people were unaware that there was lead in the water that could be absorbed through the skin as well as being ingested (Flint Task Force 2016). The community was starting to see the side effects of the water in forms of rashes, eye irritations, and behavioural changes (Gupta et al. 2016) . People are also extremely fearful of nuclear accidents and nuclear power plants and have a great deal of skepticism in the industry. The world has seen accidents such as, the Three Miles Island in 1979, Chernobyl in 1986, and recently Fukushima meltdown in Japan in 2011. The Three Mile Island Unit 2 (TMI-2) reactor, near Middletown, Pennsylvania, USA, partially melted down on March 28, 1979. A combination of personnel error, design deficiencies, and component failures caused the Three Mile Island accident, which permanently changed both the nuclear industry and the US Nuclear Regulatory Commission (NRC). Public fear and distrust increased triggering nationwide debate ( Fig. 5 .1) NRC's regulations and oversight became broader and more robust, and management of the plants was scrutinized more carefully. Careful analysis of the accident's events identified problems and led to permanent and sweeping changes in how NRC regulates its licenseeswhich, in turn, has reduced the risk to public health and safety (USNRC 2016).",
+            "cite_spans": [
+                {
+                    "start": 154,
+                    "end": 179,
+                    "text": "2 (Kasperson et al. 1988)",
+                    "ref_id": null
+                },
+                {
+                    "start": 752,
+                    "end": 775,
+                    "text": "Whyte and Burton (1982)",
+                    "ref_id": "BIBREF38"
+                },
+                {
+                    "start": 778,
+                    "end": 790,
+                    "text": "Smith (2004)",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 933,
+                    "end": 954,
+                    "text": "(Fischer et al. 1991)",
+                    "ref_id": null
+                },
+                {
+                    "start": 1971,
+                    "end": 1990,
+                    "text": "(Gupta et al. 2016)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 145,
+                    "end": 153,
+                    "text": "Table 5.",
+                    "ref_id": "TABREF0"
+                },
+                {
+                    "start": 2671,
+                    "end": 2677,
+                    "text": "Fig. 5",
+                    "ref_id": "FIGREF2"
+                }
+            ],
+            "section": ""
+        },
+        {
+            "text": "At Chernobyl, Ukraine (part of former Soviet Union - Fig. 5 .2), on April 26, 1986, a sudden surge of power during a reactor systems test destroyed Unit 4 of the nuclear power station. The accident and the fire that followed released massive amounts of radioactive material into the environment. Emergency crews responding to the accident used helicopters to pour sand and boron on the reactor debris. The sand was to stop the fire and additional releases of radioactive material; the boron was to prevent additional nuclear reactions. After the accident, officials closed off the area within 30 km of the plant, except for persons with official business at the plant and those people evaluating and dealing with the consequences of the accident and operating the undamaged reactors. The government evacuated about 115,000 people from the most heavily contaminated areas in 1986, and another 220,000 people in subsequent years (USNRC 2016; UNSCEAR 2008) .",
+            "cite_spans": [
+                {
+                    "start": 927,
+                    "end": 939,
+                    "text": "(USNRC 2016;",
+                    "ref_id": null
+                },
+                {
+                    "start": 940,
+                    "end": 953,
+                    "text": "UNSCEAR 2008)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 53,
+                    "end": 59,
+                    "text": "Fig. 5",
+                    "ref_id": "FIGREF2"
+                }
+            ],
+            "section": ""
+        },
+        {
+            "text": "The Great East Japan Earthquake of magnitude 9.0 on Friday 11 March 2011 generated a large tsunami that destroyed the Sendai region ( Fig. 5 .3). The earthquake and tsunami caused great loss of life and widespread devastation in Japan. More than 15,000 people were killed, over 6000 were injured and, thousands went missing. Considerable damage was caused to buildings and infrastructure, particularly along Japan's north-eastern coast. The tsunami caused meltdown of the Fukushima Daiichi nuclear power plant due to the loss of the cooling function at the operating reactor units2 as well as at the spent fuel pools. Despite the efforts of the operators at the Fukushima Daiichi nuclear power plant to maintain control, the reactor cores in Units 1-3 overheated, the nuclear fuel melted and the three containment vessels were breached. Hydrogen was released from the reactor pressure vessels, leading to explosions inside the reactor buildings in Units 1, 3 and 4 that damaged structures and equipment and injured personnel. Radionuclides were released from the plant to the atmosphere and were deposited on land and on the ocean. There were also direct releases into the sea. People within a radius of 20 km of the site and in other designated areas were evacuated, and those within a radius of 20-30 km were instructed to shelter before later being advised to voluntarily evacuate. Restrictions were placed on the distribution and consumption of food and the consumption of drinking water. The accident was rated 7 on the International Nuclear Events Scale (INES) due to high radioactive releases (IAEA 2013; Pletcher 2016).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 134,
+                    "end": 140,
+                    "text": "Fig. 5",
+                    "ref_id": "FIGREF2"
+                }
+            ],
+            "section": ""
+        },
+        {
+            "text": "The media has a fascination with disastrous events, influencing and inflating public anxiety and perceptions of danger (Borum et al. 2010) . When events such as school or college shootings occur, public fear is heightened due to the fact that schools are portrayed as a safe place for children (Lindle 2008) . Like the general public, teachers hear about school shootings occurring, exacerbating their existing fear of violence against children. Similarly, wild/forest fires that have potential to engulf communities and explosions caused by various reasons with a potential to hurt communities receive much and prolonged attention by the media. People are generally fearful of fires due to their destructive nature and stomach turning reaction to burn injuries or death. They provoke extreme passion in people's minds. There are also advantages to media attention in that it creates awareness, emotional engagement, and encourages donations and other forms of help by local, national, and international community. A recent example of a forest fire is Fort McMurray, Alberta fires in May 2016. Being an oil patch of Canadian Midwest, the community sits on the fringes of natural forest creating an easy access for a forest fire to spread to the community. This phenomenon is known as interface fire which is becoming far more common due to various reasons. The soaring 32 C temperatures fueled the fire and tinder dry forest fire swept through the community destroying homes and buildings and forcing the largest wildfire evacuation in Albertan history. It continued to spread across northern Alberta and into Saskatchewan, consuming forested areas and impacting Athabasca oil sands operations until mid-June when rain helped firefighters to hold the fire (Ramsay and Shum 2016; Parsons and Graney 2016) . It has become the costliest disaster in Canadian history. The fire destroyed 2400 structures, nearly 10% of the city, and forced more than 80,000 residents to flee. As a risk mitigation effort, Alberta instituted a province wide ban on open fires, including campfires and the use of charcoal briquettes (Globe and Mail 2016). ",
+            "cite_spans": [
+                {
+                    "start": 119,
+                    "end": 138,
+                    "text": "(Borum et al. 2010)",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 294,
+                    "end": 307,
+                    "text": "(Lindle 2008)",
+                    "ref_id": null
+                },
+                {
+                    "start": 1756,
+                    "end": 1778,
+                    "text": "(Ramsay and Shum 2016;",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 1779,
+                    "end": 1803,
+                    "text": "Parsons and Graney 2016)",
+                    "ref_id": "BIBREF18"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Media's Influence on Risk Perception"
+        },
+        {
+            "text": "According to the International Disaster Database (www.emdat.be), vulnerability is degree of loss (from 0% to 100%) resulting from a potential damaging phenomenon. The Public Safety Canada (PSC 2012) describes vulnerability as, a condition or set of conditions determined by physical, social, economic and environmental factors or processes that increases the susceptibility of a community to the impact of hazards.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Perception of Vulnerability"
+        },
+        {
+            "text": "Also defined in the PSC (2012) report is the vulnerability assessment, as the process of identifying and evaluating vulnerabilities, describing all protective measures in place to reduce them and estimating the likelihood of consequences. Nirupama 2013, 2014a, b; Stewart 2007; Tierney 1999; Hewitt 1997; Whyte and Burton 1982) that certain people are more vulnerable than others due to various reasons such as lack of education and adequate income, age, poor health, physical disability, and living in hazardous locations. Many times, vulnerable people living in hazard-prone areas do not perceive their exposure to risk concerning enough to becoming their top priority (Nirupama 2015) as basic necessities of life remains their main focus. Perception about people's behaviour during emergencies defines, to a large extent, how authorities would plan resource allocation for community emergency response as well as develop and implement mitigation measures. During the past decade, a paradigm shift in the approach to disaster management has been apparent and community participation is being encouraged by policy makers. It is believed that community participation, not a top-down approach, will bring about a comprehensive and accurate appreciation of people's perception regarding hazard risk, vulnerability, and resilience. Experts (Wisner et al. 2004; Ferrier and Haque 2003; Twigg 2007; UNISDR 2001) have also delved in explaining the progression of people's vulnerability by employing various arguments given the social, physical, and political environments. Birkmann (2006) has developed indicators for identifying and assessing vulnerability. Emphasis on assessing people's vulnerability and potential risks they may be exposed to, in order to mitigate losses through knowledge based actions, is clearly noticeable (Cutter 2012; ICSU 2008; Pelling 2003; Jaeger et al. 2001; Tobin and Montz 1997) preference as a way to go forward.",
+            "cite_spans": [
+                {
+                    "start": 239,
+                    "end": 263,
+                    "text": "Nirupama 2013, 2014a, b;",
+                    "ref_id": null
+                },
+                {
+                    "start": 264,
+                    "end": 277,
+                    "text": "Stewart 2007;",
+                    "ref_id": null
+                },
+                {
+                    "start": 278,
+                    "end": 291,
+                    "text": "Tierney 1999;",
+                    "ref_id": null
+                },
+                {
+                    "start": 292,
+                    "end": 304,
+                    "text": "Hewitt 1997;",
+                    "ref_id": null
+                },
+                {
+                    "start": 305,
+                    "end": 327,
+                    "text": "Whyte and Burton 1982)",
+                    "ref_id": "BIBREF38"
+                },
+                {
+                    "start": 671,
+                    "end": 686,
+                    "text": "(Nirupama 2015)",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 1337,
+                    "end": 1357,
+                    "text": "(Wisner et al. 2004;",
+                    "ref_id": "BIBREF39"
+                },
+                {
+                    "start": 1358,
+                    "end": 1381,
+                    "text": "Ferrier and Haque 2003;",
+                    "ref_id": null
+                },
+                {
+                    "start": 1382,
+                    "end": 1393,
+                    "text": "Twigg 2007;",
+                    "ref_id": null
+                },
+                {
+                    "start": 1394,
+                    "end": 1406,
+                    "text": "UNISDR 2001)",
+                    "ref_id": "BIBREF33"
+                },
+                {
+                    "start": 1567,
+                    "end": 1582,
+                    "text": "Birkmann (2006)",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 1825,
+                    "end": 1838,
+                    "text": "(Cutter 2012;",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 1839,
+                    "end": 1849,
+                    "text": "ICSU 2008;",
+                    "ref_id": null
+                },
+                {
+                    "start": 1850,
+                    "end": 1863,
+                    "text": "Pelling 2003;",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 1864,
+                    "end": 1883,
+                    "text": "Jaeger et al. 2001;",
+                    "ref_id": null
+                },
+                {
+                    "start": 1884,
+                    "end": 1905,
+                    "text": "Tobin and Montz 1997)",
+                    "ref_id": "BIBREF32"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Perception of Vulnerability"
+        },
+        {
+            "text": "In the flood risk mapping methodology developed by Armenakis and Nirupama (2014a) , it is clearly demonstrated (Fig. 5.6 ) that accurate understanding and estimation of various types of vulnerabilities play vital role in the process of risk assessment.",
+            "cite_spans": [
+                {
+                    "start": 51,
+                    "end": 81,
+                    "text": "Armenakis and Nirupama (2014a)",
+                    "ref_id": "BIBREF2"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 111,
+                    "end": 120,
+                    "text": "(Fig. 5.6",
+                    "ref_id": "FIGREF2"
+                }
+            ],
+            "section": "Perception of Vulnerability"
+        },
+        {
+            "text": "According to Mileti and Fitzpatrick (1991) , we process information in five different steps: hear, understand, believe, personalize, and decide/respond. In having others help us process information, we are able to legitimize the source of the information, assess its credibility, and confirm the best course of action based on the actions, those around us, wish to take. Knowing better leads to doing better which leads to action that would be based on sound information. For example, living near a railway track can be associated with potential risks such as train derailment, harmful emissions, toxic spills, fires, and explosions. This was the case in 2015 when a small engine fire from a train left oil and debris on various properties in Mississauga in the GTA, presenting a health risk to residents (City News 2015). A program with policies and procedures designed to consider cultures and community needs will not only benefit the community tremendously, but also allow for knowledge-based and well understood perceptions of people. Another major accident occurred in July 2013 when a train carrying inflammable petroleum crude oil derailed and exploded in the downtown area of in Lac-M\u00e9gantic, Quebec. Figure 5 .7 shows the route of the train with Canadian cities on the track drawn on Google map, and Fig. 5 .8 shows the extent of damage. The tragedy triggered a feeling of deep grief and sorrow in the close knit community, and a movement to move the rail track away from the town. Media reported conversations with impacted people in which they openly expressed their lack of trust with the authorities, including the Transport Safety Board of Canada and the Government of Canada in terms of how risks are being managed. People also perceived the situation as a case of companies putting their interest and convenience ahead of the safety of people and the environment, and impact on communitiesboth emotional and physical.",
+            "cite_spans": [
+                {
+                    "start": 13,
+                    "end": 42,
+                    "text": "Mileti and Fitzpatrick (1991)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 1210,
+                    "end": 1218,
+                    "text": "Figure 5",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 1310,
+                    "end": 1316,
+                    "text": "Fig. 5",
+                    "ref_id": "FIGREF2"
+                }
+            ],
+            "section": "Perception of People"
+        },
+        {
+            "text": "In Toronto, Canada, though the exponentiallyincreasing number of immigrants from around the world is a positive sign, new challenges arise from the standpoint of emergency management, institutional culture and practices. Proper governance is vital to creating an environment that would help new immigrants integrate in the society. According to the 2006 Census (Statistics Canada 2008), Toronto is one of the only four census divisions where more than 16% new immigrants (2000) (2001) (2002) (2003) (2004) (2005) fall in the low income category -5% higher than the national average. Ontario is the largest population centre; ten of the top twenty-five most populous Canadian municipalities are in Ontario, Toronto being number one at more than 2.5 million. Ontario is home to more than half of Canada's visible minorities, out of which more than 30% reside in the GTA, while the national average is only 16.2%. Though two-thirds of Toronto's adult population has completed postsecondary education, the percentage of allophones (persons whose first language is neither English nor French) is as high as 86% in several prominent municipalities. Employment numbers are discouraging, and newer dwellings are built further away from places of workan additional contributing factor in the progression of vulnerability. In this scenario, it is prudent to pay attention to how vulnerabilities are perceived by policy makers with regards to emergency management and how they might impact potential disasters (Mileti 1999; Mitchell 2003; Tierney 2007) . ",
+            "cite_spans": [
+                {
+                    "start": 471,
+                    "end": 477,
+                    "text": "(2000)",
+                    "ref_id": null
+                },
+                {
+                    "start": 478,
+                    "end": 484,
+                    "text": "(2001)",
+                    "ref_id": null
+                },
+                {
+                    "start": 485,
+                    "end": 491,
+                    "text": "(2002)",
+                    "ref_id": null
+                },
+                {
+                    "start": 492,
+                    "end": 498,
+                    "text": "(2003)",
+                    "ref_id": null
+                },
+                {
+                    "start": 499,
+                    "end": 505,
+                    "text": "(2004)",
+                    "ref_id": null
+                },
+                {
+                    "start": 506,
+                    "end": 512,
+                    "text": "(2005)",
+                    "ref_id": null
+                },
+                {
+                    "start": 1499,
+                    "end": 1512,
+                    "text": "(Mileti 1999;",
+                    "ref_id": null
+                },
+                {
+                    "start": 1513,
+                    "end": 1527,
+                    "text": "Mitchell 2003;",
+                    "ref_id": null
+                },
+                {
+                    "start": 1528,
+                    "end": 1541,
+                    "text": "Tierney 2007)",
+                    "ref_id": "BIBREF31"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Perception of People"
+        },
+        {
+            "text": "Two studies are discussed in this section to illustrate the role and importance of people's perception of risk and vulnerability. The first study (Nirupama and Maula 2013) is based on a focus group session conducted at the South Asian Women's Centre (SAWC) in Toronto, Canada (Fig. 5.9 ). The participant women in the group were regular members of the Centre, using the resource because they were vulnerable in more than one way. They were mainly over 40 years old, the majority with little education, unemployed, facing language barriers, low income group, and reliant on public transit. Many participants identified that they lived in the vicinity of rivers, lakes, railways, or power plants (Fig. 5.10 ), but did not seem to be aware of their exposure to potential threatsindicating a lack of awareness and engagement with their surroundings. Figure 5 .11 is an example that participants did not understand what was meant by level of safety, exposure to risk, and sense of belonging in their community as most of them chose not to respond to the question. Figure 5 .12 illustrates group's interest and involvement in local government.",
+            "cite_spans": [
+                {
+                    "start": 146,
+                    "end": 171,
+                    "text": "(Nirupama and Maula 2013)",
+                    "ref_id": "BIBREF14"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 276,
+                    "end": 285,
+                    "text": "(Fig. 5.9",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 694,
+                    "end": 704,
+                    "text": "(Fig. 5.10",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 846,
+                    "end": 854,
+                    "text": "Figure 5",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 1059,
+                    "end": 1067,
+                    "text": "Figure 5",
+                    "ref_id": "FIGREF2"
+                }
+            ],
+            "section": "Case Studies"
+        },
+        {
+            "text": "The second study was carried out in the Region of Peel in the GTA (Fig. 5.13 ) in Ontario, Canada (Nirupama and Jubril 2016; Jubril 2016) . The Region of Peel has a Regional Emergency Management (REM) program in place. A survey conducted by the REM highlighted that among immigrants and visible minorities, presence of fire safety devices and other precautionary measures are less common; and there is a lack of social support for emergency situations. This research is based on the premise set by the REM survey to further explore people's knowledge, preferences, interests, priorities, and perceptions in order to identify strengths and weaknesses in the society. A questionnaire based survey was used to collect data from three different community locations in the City of Brampton, namely, South Fletcher's Sportsplex . The questionnaire consisted of 29 questions intended to gather information from a sample of entities for the purpose of constructing attributes of the larger population of which the entities are members. Figs. 5.14 and 5.15 represent people's responses on questions such as, proximity to potential risks (Fig. 5.14) , importance of social networks (Fig. 5.15 ), level of safety in their community (Fig. 5.16) , and people's interest in the local government (Fig. 5.17) .",
+            "cite_spans": [
+                {
+                    "start": 98,
+                    "end": 124,
+                    "text": "(Nirupama and Jubril 2016;",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 125,
+                    "end": 137,
+                    "text": "Jubril 2016)",
+                    "ref_id": "BIBREF13"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 66,
+                    "end": 76,
+                    "text": "(Fig. 5.13",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 1128,
+                    "end": 1139,
+                    "text": "(Fig. 5.14)",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 1172,
+                    "end": 1182,
+                    "text": "(Fig. 5.15",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 1221,
+                    "end": 1232,
+                    "text": "(Fig. 5.16)",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 1281,
+                    "end": 1292,
+                    "text": "(Fig. 5.17)",
+                    "ref_id": "FIGREF2"
+                }
+            ],
+            "section": "Case Studies"
+        },
+        {
+            "text": "It is apparent from the responses in the two case studies that to a certain degree, people understand the importance of social network but they do not see a need to There is also a lack of awareness and understanding in regards with what is meant by potential risk, as a number of responses were 'other', 'not applicable' or 'no response'. People's perception on issues concerning assessment of their vulnerability in the context of their society must be observed after disseminating sufficient knowledge in addition to making efforts to attract their attention to the importance of such issues. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Case Studies"
+        },
+        {
+            "text": "Particularly with an emphasis on how cultural myths and false beliefs affect decision-making, various authors have discussed barriers to good disaster management (e.g. Der Heide 1989; Alexander 2002). These include: post-disaster recreation of vulnerability; removal of natural protective barriers; failure to learn from the mistakes of others; failure to correct existing but known deficiencies; overdependence upon technology; lack of recognition of system problems; the inter-governmental paradox; institutional ambiguities; apathy; underestimation of risk; overestimation of capacity; lack of resources; cultural attitudes, such as fatalism, defeatism etc.; social pressures; opposing special interest groups; and reliance upon myths/false beliefs in disaster planning, response and management. Research in the nascent field of disaster management suggests that it is often ineffective because of a large number of reasons. How the professional emergency management community perceives barriers that hinder effective emergency management and views itself may provide useful insights, and suggest strategies that might be used to help develop a culture of safety (Nirupama and Etkin 2009) .",
+            "cite_spans": [
+                {
+                    "start": 1166,
+                    "end": 1191,
+                    "text": "(Nirupama and Etkin 2009)",
+                    "ref_id": "BIBREF11"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Perspectives of Emergency Managers"
+        },
+        {
+            "text": "The way many disasters unfold can be attributed, in part, to a lack of institutional preparedness and a general perception of risk (Whyte and Burton 1982; Slovic 2000; White et al. 2001; Alexander 2002; Twigg 2007; Olanubi 2009 ). To better understand this issue, Nirupama and Etkin (2012) conducted a study to obtain insights into the minds and thoughts of emergency management professionals in Ontario, Canada. In order to assess how emergency management institutions perceive their importance in terms of Canadian society and the Emergency Management community the authors interviewed a number of experts positioned in policy-making and decision-making capacities. Based on these interviews, a questionnaire was prepared that highlighted some major concerns such as disaster myths/false beliefs, institutional barriers, knowledge limitations, cultural barriers, and resource limitations. ",
+            "cite_spans": [
+                {
+                    "start": 131,
+                    "end": 154,
+                    "text": "(Whyte and Burton 1982;",
+                    "ref_id": "BIBREF38"
+                },
+                {
+                    "start": 155,
+                    "end": 167,
+                    "text": "Slovic 2000;",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 168,
+                    "end": 186,
+                    "text": "White et al. 2001;",
+                    "ref_id": "BIBREF37"
+                },
+                {
+                    "start": 187,
+                    "end": 202,
+                    "text": "Alexander 2002;",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 203,
+                    "end": 214,
+                    "text": "Twigg 2007;",
+                    "ref_id": null
+                },
+                {
+                    "start": 215,
+                    "end": 227,
+                    "text": "Olanubi 2009",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 264,
+                    "end": 289,
+                    "text": "Nirupama and Etkin (2012)",
+                    "ref_id": "BIBREF12"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Perspectives of Emergency Managers"
+        },
+        {
+            "text": "In total nine experts (three per sector) in emergency management were interviewed from (a) the public, (b) the private and (c) non-profit sectors in order to ascertain their opinions and perspectives on cultural and other barriers to risk reduction. Specific agencies targeted include (a) Emergency Management Ontario, Public Safety Canada, and Health Canada, (b) Bank of Montreal, IBM, and Ontario Hydro and (c) Red Cross, Salvation Army, and Canadian Centre for Emergency Preparedness. The interviews were semi-structured with open-ended questions to elicit rich details on the barriers to emergency management in Canada. Further, the open-ended format minimized the influence of researchers' biases on the issue. These interviews were taped and anonymous. Post interview analysis highlighted the attitudes and perceptions of the interviewees, with respect to themselves, their own organizations, their role in emergency management in Canada and their clients.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Perspectives of Emergency Managers"
+        },
+        {
+            "text": "The questionnaire that was prepared based on these expert interviews was employed to conduct an anonymous survey of approximately 70 emergency managers in Ontario with the assistance of the Ontario Association of Emergency Managers, which is the provincial professional organization for emergency managers. Twenty-four or 34% of the surveyed people replied.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Perspectives of Emergency Managers"
+        },
+        {
+            "text": "Generally speaking respondents scored emergency management institutions as having an average performance with the exception of their own, which they tended to rate as significantly higher than others. Most of them asserted that the amount of education and training they had received in their field was good or very good. This might not necessarily reflect a disinterest in improving job performance. The half of the respondents that were undecided might hesitate due to other concerns, such as being at the twilight of their career, potential costs or the difficulty of balancing further education with career and family. One respondent felt that it is better to use proven procedures and techniques rather than pursuing \"new creative ways of doing things\". For those that wanted further education/training, IMS (Incident Management System) was the training identified most as being needed. On deciding whether or not to take further education or training, two-thirds of the respondents said they would prefer short courses. A number of them also proposed online courses, as they are convenient.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Highlights of the Findings"
+        },
+        {
+            "text": "Emergency managers' views were sought regarding whether a Command & Control hierarchical model would be preferred over a Community-Based one (Fig. 5.18 ). The question was in the context of the four phases of the Emergency Management Cycle, namely, mitigation and prevention; preparedness; response; and recovery. This question was placed within the following context: Two different models of emergency and disaster management are (a) one that is top down, command & control, and (b) another that is community based. Hierarchical command and control models based upon a pyramidal authority structure have been criticized as not being the most effective for handling complex disasters. In particular, it has been suggested that they insufficiently incorporate local concerns, authority, culture and expertise. Community based models that encourage such interactions can often be more effective. From an alternate perspective, President Bush after Hurricane Katrina said \"It is now clear that a challenge on this scale requires greater federal authority and a broader role for the armed forces. . .",
+            "cite_spans": [
+                {
+                    "start": 451,
+                    "end": 483,
+                    "text": "down, command & control, and (b)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 141,
+                    "end": 151,
+                    "text": "(Fig. 5.18",
+                    "ref_id": "FIGREF2"
+                }
+            ],
+            "section": "Highlights of the Findings"
+        },
+        {
+            "text": "It is not surprising that command and control was emphasized more in the response phase. It is much easier to implement community based approaches during normal day-to-day non-emergency operations where there are few time constraints and decisions are not urgent. During crisis situations such approaches are far more challenging. What is surprising is that so many preferred a command and control approach during the mitigation and prevention phases; in the personal experience of the authors emergency managers often prefer community engagement in this part of the cycle. One of the most notable features of Fig. 5 .18 is a large variance in terms of how the respondents viewed command-and-control versus community-based approaches. Recent academic literature has emphasized problems with top-down management structures and emphasized the importance of including community involvement (e.g. Mileti 1999; Canton 2007 ). In part this may reflect a tendency for emergency managers to come from military or first responder backgrounds, where this approach works well and is the basis for much of their training and work.",
+            "cite_spans": [
+                {
+                    "start": 887,
+                    "end": 905,
+                    "text": "(e.g. Mileti 1999;",
+                    "ref_id": null
+                },
+                {
+                    "start": 906,
+                    "end": 917,
+                    "text": "Canton 2007",
+                    "ref_id": "BIBREF7"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 610,
+                    "end": 616,
+                    "text": "Fig. 5",
+                    "ref_id": "FIGREF2"
+                }
+            ],
+            "section": "Highlights of the Findings"
+        },
+        {
+            "text": "Information sharing came up as an important component of EM as can be seen in the select four quotes from the 'comments' section of the survey, as given below:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Highlights of the Findings"
+        },
+        {
+            "text": "How can you expect members of the community to become involved if they aren't aware of the risks they face?",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Highlights of the Findings"
+        },
+        {
+            "text": "Agencies and jurisdictions are dependent upon one another, and all elements of the community are dependent upon a number of critical infrastructure sectors/organizations. Time and again at tabletop exercises, participants discover that there are greater interdependencies (Nirupama and Etkin 2012) than they had previously anticipated. More robust and systemic information sharing would minimize this kind of surprise, and often these moments of \"Oh? We didn't know that!\" are the most useful outcomes of multi-party and multi-sector exercises.",
+            "cite_spans": [
+                {
+                    "start": 272,
+                    "end": 297,
+                    "text": "(Nirupama and Etkin 2012)",
+                    "ref_id": "BIBREF12"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Highlights of the Findings"
+        },
+        {
+            "text": "Emergency events don't respect geographical boundariesneither planning nor response should be done in a vacuum.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Highlights of the Findings"
+        },
+        {
+            "text": "Public has a right to know and to be informed. Public is responsible for themselves and must educate and prepare accordingly. I believe IS promotes resiliency.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Highlights of the Findings"
+        },
+        {
+            "text": "On the contrary, few but striking arguments were presented against information sharing:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Highlights of the Findings"
+        },
+        {
+            "text": "Restricting the information received on a community's vulnerabilities, would be in our best interest.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Highlights of the Findings"
+        },
+        {
+            "text": "Encouraging information sharing can be a difficult proposition to sell because I have noticed that the general perception is that sharing the results of a HIRA would point out where all the vulnerabilities are. That is true to an extent, but that neglects the 'unknown' vulnerabilities that arise from not knowing how our partner agencies, jurisdictions, and critical sectors rely on us and on one another. The general thinking is still that each agency and jurisdiction looks out for itself, particularly at the senior management levels in my opinion, and there is little focus on the overall, coordinated EM and Disaster Response effort. There is information sharing, to be sure, often at multi-party exercises. It is just that I think there needs to be more, and it needs to be integrated into our processes and the way we think about the how and why of information sharing. Figure 5 .19 illustrates the responses concerning possible hindrances to effective and efficient emergency and disaster management. Even though 79% of the responses blame insufficient funds, some noted that effective programs and policies are also necessary that would make emergency management a greater part of Canadian culture. A large number (75%) also thought political factors are a major barrier to emergency and disaster management. Many felt that there is a lot of \"politicking\" when it comes to emergency management, thus action is not taken until forced (the 2003 SARS crisis was given as an example). By politicking we refer to the need to engage in the political process to obtain resources, conflicts between Fig. 5.19 Hindrances to disaster and emergency management (Nirupama and Etkin 2012) . The question was designed to seek more than one response from respondents suggesting their preference, which is why the total percentage of all categories combined is more than one hundred percent various organizations, and difficulties in convincing decision makers to invest in emergency management during non-emergency periods. Some expressed the opinion that politicians do not take EM seriously because they do not see how it would translate into votes.",
+            "cite_spans": [
+                {
+                    "start": 1601,
+                    "end": 1610,
+                    "text": "Fig. 5.19",
+                    "ref_id": null
+                },
+                {
+                    "start": 1659,
+                    "end": 1684,
+                    "text": "(Nirupama and Etkin 2012)",
+                    "ref_id": "BIBREF12"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 878,
+                    "end": 886,
+                    "text": "Figure 5",
+                    "ref_id": "FIGREF2"
+                }
+            ],
+            "section": "Highlights of the Findings"
+        },
+        {
+            "text": "While few professionals expressed concern that the institution is too bureaucratic and too slow to react, others wanted to see more advertising and awareness campaigns being initiated. Regarding the federal initiative, National Disaster Mitigation Strategy, it was felt that the document, despite being great, lacked a cost/benefit analysis and support for mitigation measures, and instead focussed on the costs of response and recovery. Furthermore, not so optimistic comments were also found in the interviews, suggesting that there is a lack of familiarity with the mitigation strategy, and that governments simply legislate and make more rules without actually implementing much.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Highlights of the Findings"
+        },
+        {
+            "text": "Based upon the set of disaster myths listed in Alexander (2002) (see Appendix 4 for \"reality\"), the following statements were made, with which the practitioner was asked for their level of agreement (1 \u00bc agree and 10 \u00bc disagree):",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Highlights of the Findings"
+        },
+        {
+            "text": "\u2022 After a disaster, survivors tend to be dazed and apathetic: half the respondents did not disagree with the claim that disaster survivors are dazed and apathetic, though some noted that it depends on the type of disaster. \u2022 Looting is a common and serious problem after disasters: 46% agree that looting is a common problem after disasters. \u2022 Disasters give rise to spontaneous displays of antisocial behavior: fifty eight percent disagree with the assumption that disasters give rise to spontaneous displays of antisocial behaviour. In general, the survey respondents feel that people who survive a disaster display pro-social behaviour in the immediate aftermath. \u2022 Any kind of aid and relief is useful after disaster, provided that it is supplied quickly enough: fifty four percent of the respondents said that not all aid or relief is useful after a disaster. This group felt that only solicited aid is useful, as uncoordinated supplies are often a hindrance. One noted that if relief is to be sent, it should be specific to the needs of the people. Another good point was that if the aid required a substantial amount of resources to manage, it would be more of a hindrance than a help, as EM teams might be put to better use the resources elsewhere. \u2022 People will flee in large numbers from a disaster: thirty four percent of respondents were confident that people tend to flee.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Highlights of the Findings"
+        },
+        {
+            "text": "The responses on disaster myths suggest a positive bias since a large proportion of the emergency managers subscribed to common disaster myths. This is a well known phenomenonwhere people tend to view themselves and the world in a considerably more positive light than is objectively justified (Bazerman and Watkins 2004) . This result is similar to the findings of Fischer (1998) who found that the frequency of belief in myths by emergency managers was independent of years in the job or experience, but only depended upon level of education.",
+            "cite_spans": [
+                {
+                    "start": 294,
+                    "end": 321,
+                    "text": "(Bazerman and Watkins 2004)",
+                    "ref_id": "BIBREF4"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Highlights of the Findings"
+        },
+        {
+            "text": "To summarize, emergency managers felt that priority of the institution should be to mitigate impact on people and assets. They acknowledged that not enough time is allotted to fill gaps and consequently, occasionally same mistakes are repeated. Disaster scenario simulations reveal that there are greater interdependencies than anticipated. The role of Hazard Identification and Risk Assessment at the provincial level was felt vital. It was recognized that risk and vulnerability assessment and prioritization is pivotal for making connections with disaster mitigation strategies and resource allocation. In accordance with what Etkin (1999) presented regarding risk transference and related trends, we notice that the process of risk assessment lies more within the jurisdiction of municipalities and cities than at higher levels of government.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Highlights of the Findings"
+        },
+        {
+            "text": "Identify three recent disaster events and analyze them from different perception point of view -(i) how impacted people reacted to the event(s) (ii) what you think of the extent of vulnerability in the impact region(s) (iii) how first responders and the authorities perceived the event(s).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Exercise"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Principles of emergency planning and management",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Alexander",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Estimating spatial disaster risk in urban environments, geomatics, natural hazards and risk",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Armenakis",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Nirupama",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "",
+            "volume": "4",
+            "issn": "",
+            "pages": "289--298",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Flood risk mapping for the city of Toronto",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Armenakis",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Nirupama",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Procedia Economics and Finance",
+            "volume": "18",
+            "issn": "",
+            "pages": "320--326",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Urban impacts of ice storm -Toronto",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Armenakis",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Nirupama",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Nat Hazards",
+            "volume": "74",
+            "issn": "2",
+            "pages": "1291--1298",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Predictable surprises: the disasters you should have seen coming and how to prevent them",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Bazerman",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Watkins",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Measuring vulnerability to natural hazards: towards disaster resilient societies",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Birkmann",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "What can be done about school shootings? A review of the evidence. Mental Health Law & Policy Faculty Publications/University of South Florida",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Borum",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Cornell",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Modzeleski",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Jimerson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Emergency management: concepts and strategies for effective programs",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Canton",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "University of Sussux, Brighton City News (2015) Oil and debris spew over Mississauga due to train engine failure -CityNews",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Chambers",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Conway",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Preface. In: Disaster resilience -a national perspective",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Cutter",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "The National Academies",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Understanding risk from floods and landslides in the Himalayan region: a discussion to enhance resilience",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Nirupama",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "planet@risk. Global Risk Forum",
+            "volume": "3",
+            "issn": "2",
+            "pages": "231--235",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Emergency managers in Ontario: an exploratory study of their perspectives",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Nirupama",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Etkin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "J Homeland Security and Emergency Management",
+            "volume": "6",
+            "issn": "1",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Institutional perception and support in emergency management in Ontario",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Nirupama",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Etkin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Canada. Disaster Prevention and Management, Emerald",
+            "volume": "21",
+            "issn": "5",
+            "pages": "599--607",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Social capital and disaster resilience: a Canadian case study. 6th international disaster and risk conference IDRC",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Nirupama",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "O"
+                    ],
+                    "last": "Jubril",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Engaging public for building resilient communities to reduce disaster impact, special issue on sociological aspects of natural disasters Springer",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Nirupama",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Maula",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Nat Hazards",
+            "volume": "66",
+            "issn": "",
+            "pages": "51--59",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Increase of flood risk due to urbanization: a Canadian example",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Nirupama",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Simonovic",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Natural Hazards",
+            "volume": "40",
+            "issn": "",
+            "pages": "25--41",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Is flooding in Toronto a concern?",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Nirupama",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Armenakis",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Montpetit",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Nat Hazards",
+            "volume": "72",
+            "issn": "2",
+            "pages": "1259--1264",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Crisis management and psychosocial intervention: perception of immigrants, Major Research Paper",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Olanubi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Fort McMurray residents flee in the largest fire evacuation in Alberta's history",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Parsons",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Graney",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Edmonton Journal",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Tracing the roots of urban risk and vulnerability",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Pelling",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "The vulnerability of cities: natural disasters and social resilience",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Natural hazards analysis: reducing the impact of disasters",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Pine",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Japan earthquake and tsunami of",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Pletcher",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "",
+            "volume": "20",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Public safety Canada",
+            "authors": [],
+            "year": 2012,
+            "venue": "PSC",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Ocean of fire destroys 2,400 structures but 85% of Fort McMurray still stands",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Ramsay",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Shum",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Global News",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "Understanding social vulnerability. Theoretical framing of worldviews, values, and structural dimensions of disasters",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Scanlyn",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Thomas",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Brett",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Social vulnerability to disasters",
+            "volume": "513",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "A delicate issue in risk assessment",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Schneider",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Basler",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Partner",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "RISK21 -coping with risks due to natural hazards in the 21st century",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "Limits of knowledge and the limited importance of trust",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Sj\u00f6berg",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Risk Anal",
+            "volume": "21",
+            "issn": "1",
+            "pages": "189--198",
+            "other_ids": {}
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "Perceptions of risk",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Slovic",
+                    "suffix": ""
+                }
+            ],
+            "year": 1987,
+            "venue": "Science",
+            "volume": "236",
+            "issn": "",
+            "pages": "280--285",
+            "other_ids": {}
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "The perception of risk",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Slovic",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "Environmental hazards: assessing risk and reducing disaster",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Smith",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF30": {
+            "ref_id": "b30",
+            "title": "Available at www.statcan.gc.ca/start-debut-eng.html Stewart RM (2007) Community perspectives of flood risk and social vulnerability reduction: the case of the Red River Basin",
+            "authors": [],
+            "year": 1999,
+            "venue": "Statistics Canada",
+            "volume": "14",
+            "issn": "2",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF31": {
+            "ref_id": "b31",
+            "title": "Testimony to house committee on oversight and government reform",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Tierney",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF32": {
+            "ref_id": "b32",
+            "title": "Characteristics of a disaster-resilient community",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Tobin",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Montz",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF33": {
+            "ref_id": "b33",
+            "title": "United Nations Scientific Committee on the Effects of Atomic Radiation",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Unisdr",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Geneva UNSCEAR",
+            "volume": "30",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF34": {
+            "ref_id": "b34",
+            "title": "Fact sheets, United States nuclear regulatory commission report",
+            "authors": [],
+            "year": 2016,
+            "venue": "Accessed",
+            "volume": "30",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF35": {
+            "ref_id": "b35",
+            "title": "The risk perception paradox -implications for governance and communication of natural hazards",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Wachinger",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Renn",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Begg",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Kuhlicke",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Risk Anal",
+            "volume": "33",
+            "issn": "6",
+            "pages": "1049--1065",
+            "other_ids": {}
+        },
+        "BIBREF36": {
+            "ref_id": "b36",
+            "title": "Risk perception and the media",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Wahlberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Sjoberg",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J Risk Res",
+            "volume": "3",
+            "issn": "1",
+            "pages": "31--50",
+            "other_ids": {}
+        },
+        "BIBREF37": {
+            "ref_id": "b37",
+            "title": "Knowing better and losing even more: the use of knowledge in hazards management",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "White",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Kates",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Burton",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Environ Hazard",
+            "volume": "3",
+            "issn": "3",
+            "pages": "81--92",
+            "other_ids": {}
+        },
+        "BIBREF38": {
+            "ref_id": "b38",
+            "title": "Perception of risk in Canada",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Whyte",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Burton",
+                    "suffix": ""
+                }
+            ],
+            "year": 1982,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "39--69",
+            "other_ids": {}
+        },
+        "BIBREF39": {
+            "ref_id": "b39",
+            "title": "At risk: natural hazards, people's vulnerability and disasters",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Wisner",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Blaikie",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Cannon",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Davis",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Fig. 5.1 Time cover of April 29, 1991. Cover Credit: Steve Smith-Westlight http://content. time.com/time/covers/ 0,16641,19910429,00.html",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Chernobyl shown in map (source: World Nuclear Association http://www.world-nuclear. org/information-library/safety-and-security/safety-of-plants/chernobyl-accident.aspx)",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "4 shows the raging fire and fleeing residents and Fig. 5.5 illustrates the extent of loss in Fort McMurray.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "Reports of loss shown in Fort McMurray fire affected region (Globe and Mail",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF4": {
+            "text": "Schematic of flood risk mapping, developed for the 2013 severe flooding in the City of Toronto, Canada",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF5": {
+            "text": "Train route and direction of the travel at the time of the accident in Lac-Megantic, Quebec (Transport Safety Board of Canada www.tsb.gc.ca)",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF6": {
+            "text": "Lac-M\u00e9gantic train derailment and explosion killing 47 people and forcing 2000 people from their homes (Transport Safety Board of Canada www.tsb.gc.ca)",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF7": {
+            "text": "Participants at SAWC with Director, Kripa Sekhar (centre, in red dress, New Birth Tabernacle (a local non-denominational faith centre), and a local restaurant (MJ'S BBQ & Suya)",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF8": {
+            "text": "the local government which is supposed to give them a sense of belonging.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF9": {
+            "text": "Fig. 5.14 Physical environment where people reside (Jubril 2016)",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF10": {
+            "text": "15 Importance of social networks in people's mind (Jubril 2016) Fig. 5.16 People's perception of the level of safety (Jubril 2016)",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF11": {
+            "text": "17 Interest in the local government (Jubril 2016)",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "Some difference between risk assessment and risk perception(Smith 2004)",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": []
+}

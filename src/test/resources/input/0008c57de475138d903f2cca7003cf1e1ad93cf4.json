@@ -1,0 +1,1020 @@
+{
+    "paper_id": "0008c57de475138d903f2cca7003cf1e1ad93cf4",
+    "metadata": {
+        "title": "The effect of gramicidin inclusions on the local order of membrane components",
+        "authors": [
+            {
+                "first": "Elise",
+                "middle": [],
+                "last": "Azar",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Laboratoire de Physique des Solides",
+                    "institution": "Universit\u00e9 Paris-Saclay",
+                    "location": {
+                        "postCode": "91405",
+                        "settlement": "Orsay Cedex",
+                        "country": "France"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Doru",
+                "middle": [],
+                "last": "Constantin",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Laboratoire de Physique des Solides",
+                    "institution": "Universit\u00e9 Paris-Saclay",
+                    "location": {
+                        "postCode": "91405",
+                        "settlement": "Orsay Cedex",
+                        "country": "France"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Dror",
+                "middle": [
+                    "E"
+                ],
+                "last": "Warschawski",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "UMR 7099",
+                    "institution": "Universit\u00e9 Paris Diderot",
+                    "location": {
+                        "settlement": "Paris",
+                        "country": "France"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "We study the local effect of the antimicrobial peptide Gramicidin A on bilayers composed of lipids or surfactants using nuclear magnetic resonance spectroscopy and wide-angle X-ray scattering, techniques that probe the orientational and positional order of the alkyl chains, respectively. The two types of order vary with temperature and peptide concentration in complex ways which depend on the membrane composition, highlighting the subtlety of the interaction between inclusions and the host bilayer. The amplitude of the variation is relatively low, indicating that the macroscopic constants used to describe the elasticity of the bilayer are unlikely to change with the addition of peptide.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "The effect on the cell membrane of inclusions (membrane proteins, antimicrobial peptides etc.) is a highly active field of study in biophysics [1] . A very powerful principle employed in describing the interaction between proteins and membranes is that of hydrophobic matching [2, 3] . It states that proteins with a given hydrophobic length insert preferentially into membranes with a similar hydrophobic thickness [4] .",
+            "cite_spans": [
+                {
+                    "start": 143,
+                    "end": 146,
+                    "text": "[1]",
+                    "ref_id": null
+                },
+                {
+                    "start": 277,
+                    "end": 280,
+                    "text": "[2,",
+                    "ref_id": null
+                },
+                {
+                    "start": 281,
+                    "end": 283,
+                    "text": "3]",
+                    "ref_id": null
+                },
+                {
+                    "start": 416,
+                    "end": 419,
+                    "text": "[4]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "Many studies of the interaction used as inclusion the antimicrobial peptide (AMP) Gramicidin A (GramA), which is known [5, 6] to deform (stretch or compress) host membranes to bring them closer to its own hydrophobic length, so the hydrophobic matching mechanism is likely relevant. This perturbation of the membrane profile induces a repulsive interaction between the GramA pores in bilayers with various compositions [7] that can be explained based on a complete elastic model [8] .",
+            "cite_spans": [
+                {
+                    "start": 119,
+                    "end": 122,
+                    "text": "[5,",
+                    "ref_id": null
+                },
+                {
+                    "start": 123,
+                    "end": 125,
+                    "text": "6]",
+                    "ref_id": null
+                },
+                {
+                    "start": 419,
+                    "end": 422,
+                    "text": "[7]",
+                    "ref_id": null
+                },
+                {
+                    "start": 479,
+                    "end": 482,
+                    "text": "[8]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "This large-scale description raises however fundamental questions about the \"microscopic effect\" of the inclusion, at the scale of the lipid or surfactant molecules composing the membrane. To what extent is their local arrangement perturbed by the inclusion? Is the continuous elastic model employed for bare membranes still valid?",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "In this paper, our goal is to investigate the influence of GramA inclusions on the local order of the lipid or surfactant chains. We combine two complementary techniques: wide-angle X-ray scattering (WAXS) gives access Supplementary material in the form of a .pdf file available from the Journal web page at https://doi.org/10.1140/epje/i2018-11644-5 a e-mail: doru.constantin@u-psud.fr to the positional order between neighboring chains, while nuclear magnetic resonance (NMR) is sensitive to the orientational order of chain segments, thus yielding a comprehensive picture of the state of the membrane as a function of the concentration of inclusions. We study GramA inserted within bilayers composed of lipids with phosphocholine heads and saturated lipid chains: 1,2-dilauroyl-sn-glycero-3-phosphocholine (DLPC) and 1,2-dimyristoyl-sn-glycero-3-phosphocholine (DMPC) or of single-chain surfactants with zwitterionic or nonionic head groups: dodecyl dimethyl amine oxide (DDAO) and tetraethyleneglycol monododecyl ether (C 12 EO 4 ), respectively, the hydrophobic length of DLPC (20.8\u00c5) [5] DDAO (18.4\u00c5) [6] and C 12 EO 4 (18.8\u00c5) [7] is shorter than that of GramA (22\u00c5) [9] , while DMPC (25.3\u00c5) [5] is longer. Since all these molecules form bilayers, and their hydrophobic length is close to that of GramA, the latter is expected to adopt the native helical dimer configuration described by Ketchem et al. [10] , and not the intertwined double helices observed in methanol [11] or in SDS micelles [12] .",
+            "cite_spans": [
+                {
+                    "start": 1090,
+                    "end": 1093,
+                    "text": "[5]",
+                    "ref_id": null
+                },
+                {
+                    "start": 1107,
+                    "end": 1110,
+                    "text": "[6]",
+                    "ref_id": null
+                },
+                {
+                    "start": 1133,
+                    "end": 1136,
+                    "text": "[7]",
+                    "ref_id": null
+                },
+                {
+                    "start": 1173,
+                    "end": 1176,
+                    "text": "[9]",
+                    "ref_id": null
+                },
+                {
+                    "start": 1198,
+                    "end": 1201,
+                    "text": "[5]",
+                    "ref_id": null
+                },
+                {
+                    "start": 1409,
+                    "end": 1413,
+                    "text": "[10]",
+                    "ref_id": null
+                },
+                {
+                    "start": 1476,
+                    "end": 1480,
+                    "text": "[11]",
+                    "ref_id": null
+                },
+                {
+                    "start": 1500,
+                    "end": 1504,
+                    "text": "[12]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "As for many molecules containing hydrocarbon chains, the WAXS signal of lipid bilayers exhibits a distinctive peak with position q 0 \u223c 14 nm \u22121 , indicative of the packing of these chains in the core of the membrane. Although a full description of the scattered intensity would require an involved model based on liquid state theory [13] , the width of the peak provides a quantitative measurement for the positional order of the lipid chains: the longer the range of order, the narrower the peak.",
+            "cite_spans": [
+                {
+                    "start": 333,
+                    "end": 337,
+                    "text": "[13]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "The effect of peptide inclusions on the chain peak has been studied for decades [14] . Systematic investigations have shown that some AMPs (e.g., magainin) have a very strong disrupting effect on the local order of the chains: the chain signal disappears almost completely for a modest concentration of inclusions [15] [16] [17] . With other peptides, the changes in peak position and width are more subtle [18] and can even lead to a sharper chain peak (as for the SARS coronavirus E protein [19] ).",
+            "cite_spans": [
+                {
+                    "start": 80,
+                    "end": 84,
+                    "text": "[14]",
+                    "ref_id": null
+                },
+                {
+                    "start": 314,
+                    "end": 318,
+                    "text": "[15]",
+                    "ref_id": null
+                },
+                {
+                    "start": 319,
+                    "end": 323,
+                    "text": "[16]",
+                    "ref_id": null
+                },
+                {
+                    "start": 324,
+                    "end": 328,
+                    "text": "[17]",
+                    "ref_id": null
+                },
+                {
+                    "start": 407,
+                    "end": 411,
+                    "text": "[18]",
+                    "ref_id": null
+                },
+                {
+                    "start": 493,
+                    "end": 497,
+                    "text": "[19]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "To our knowledge, however, no WAXS studies of the effect of GramA on the chain signal have been published.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "NMR can probe global and local order parameters in various lipid phases and along the lipid chain. Deuterium ( 2 H) NMR has been the method of choice since the 1970s and has proven very successful until today [20] [21] [22] [23] . The effect of GramA on the order parameter of the lipid (or surfactant) chains has already been studied by deuterium ( 2 H) NMR in membranes composed of DMPC [21, [24] [25] [26] , DLPC [26] and DDAO [6] , but not necessarily at the same temperature, concentration or lipid position as studied here.",
+            "cite_spans": [
+                {
+                    "start": 209,
+                    "end": 213,
+                    "text": "[20]",
+                    "ref_id": null
+                },
+                {
+                    "start": 214,
+                    "end": 218,
+                    "text": "[21]",
+                    "ref_id": null
+                },
+                {
+                    "start": 219,
+                    "end": 223,
+                    "text": "[22]",
+                    "ref_id": null
+                },
+                {
+                    "start": 224,
+                    "end": 228,
+                    "text": "[23]",
+                    "ref_id": null
+                },
+                {
+                    "start": 389,
+                    "end": 393,
+                    "text": "[21,",
+                    "ref_id": null
+                },
+                {
+                    "start": 394,
+                    "end": 398,
+                    "text": "[24]",
+                    "ref_id": null
+                },
+                {
+                    "start": 399,
+                    "end": 403,
+                    "text": "[25]",
+                    "ref_id": null
+                },
+                {
+                    "start": 404,
+                    "end": 408,
+                    "text": "[26]",
+                    "ref_id": null
+                },
+                {
+                    "start": 416,
+                    "end": 420,
+                    "text": "[26]",
+                    "ref_id": null
+                },
+                {
+                    "start": 430,
+                    "end": 433,
+                    "text": "[6]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "Here, we use a novel application of solid-state NMR under magic-angle spinning (MAS) and dipolar recoupling, called the Dipolar Recoupling On-Axis with Scaling and Shape Preservation (DROSS) [27] . It provides similar information as 2 H NMR, by recording simultaneously the isotropic 13 C chemical shifts (at natural abundance) and the 13 C-1 H dipolar couplings at each carbon position along the lipid or surfactant chain and head group regions. The (absolute value of the) 13 C-1 H orientation order parameter S CH = 3 cos 2 \u03b8 \u2212 1 /2, with \u03b8 the angle between the internuclear vector and the motional axis, is extracted from those dipolar couplings, and the variation of order profiles with temperature or cholesterol content has already been probed, with lipids that were difficult to deuterate [28, 29] . Using the same approach, we monitor the lipid or surfactant order profile when membranes are doped with different concentrations of gramicidin.",
+            "cite_spans": [
+                {
+                    "start": 191,
+                    "end": 195,
+                    "text": "[27]",
+                    "ref_id": null
+                },
+                {
+                    "start": 798,
+                    "end": 802,
+                    "text": "[28,",
+                    "ref_id": null
+                },
+                {
+                    "start": 803,
+                    "end": 806,
+                    "text": "29]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "The main advantages of 13 C over 2 H are: the possibility to study natural lipids, with no isotopic labeling, and the high spectral resolution provided by 13 C-NMR, allowing the observation of all carbons along the lipid in a single 2D experiment. Segmental order parameters are deduced, via a simple equation, from the doublet splittings in the second dimension of the 2D spectra. The data treatment is simple for nonspecialists and the sample preparation is very easy since there is no need for isotopic enrichment. All these facts make this technique ideal to probe and study new molecules and to be able to compare the results with the ones obtained with other similar particles.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "The downsides are the reduced precision in the measurement and the impossibility to extract data from lipids in the gel phase. In particular, carbons at the interfacial region of the lipids (at the glycerol backbone and at the top of the acyl chains) are less sensitive to changes in membrane rigidity, and while subtle changes can be detected with 2 H-NMR, they are difficult to interpret with 13 C-NMR at these positions. Furthermore, the inefficiency of the DROSS method in the gel phase would theoretically allow measuring the lipid order in fluid phases coexisting with gel phases and quantifying the amount of lipids in each phase. In our measurements, lipids in the gel phase were not abundant enough to be detected.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "The samples were prepared from stock solutions of lipid or surfactant and, respectively, Gram A in isopropanol. We mix the two solutions at the desired concentration and briefly stir the vials using a tabletop vortexer. The resulting solutions are then left to dry under vacuum at room temperature until all the solvent evaporates, as verified by repeated weighing. The absence of residual isopropanol was cheked by 1 H NMR.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Sample preparation"
+        },
+        {
+            "text": "We then add the desired amount of water and mix the sample thoroughly using the vortexer and then by centrifuging the vials back and forth. Phases containing DMPC and DLPC were prepared at full hydration (in contact with excess water). C 12 EO 4 systems contained between 47 and 50 vol.% D 2 O (for NMR) and between 46 and 47 vol.% H 2 O (for WAXS). DDAO systems contained between 17 and 18 vol.% D 2 O (for NMR) and between 18 and 25 vol.% H 2 O (for WAXS with and without cholesterol). The GramA concentration is quantified by the molar ratio P/L (peptide to lipid or surfactant) to be consistent with the literature. Note, however, that a same P/L corresponds to twice as many inclusions per chain in membranes composed of single-chain surfactants than in lipid bilayers.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Sample preparation"
+        },
+        {
+            "text": "For WAXS, we used a microspatula to deposit small amounts of sample in the opening of a glass X-ray capillary (WJM-Glas M\u00fcller GmbH, Berlin), 1.5 or 2 mm in diameter and we centrifuged the capillary until the sample moved to the bottom. We repeated the process until reaching a sample height of about 1.5 cm. The capillary was then either flame-sealed or closed using a glue gun. For NMR, approximately 100 mg of GramA/lipid or GramA/surfactant dispersion in deuterated water were introduced in a 4 mm diameter rotor for solid-state NMR.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Sample preparation"
+        },
+        {
+            "text": "NMR experiments with DMPC, DLPC and C 12 EO 4 were performed with a Bruker AVANCE 400 WB NMR spectrometer ( 1 H resonance at 400 MHz, 13 C resonance at 100 MHz) using a Bruker 4 mm MAS probe. NMR experiments with DDAO were performed with a Bruker AVANCE 300 WB NMR spectrometer ( 1 H resonance at 300 MHz, 13 C resonance at 75 MHz) using a Bruker 4 mm MAS probe. All experiments were performed at 30 \u2022 C.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "NMR"
+        },
+        {
+            "text": "The DROSS pulse sequence [27] with a scaling factor \u03c7 = 0.393 was used with carefully set pulse lengths and refocused insensitive nuclei enhanced by polarization transfer (RINEPT) with delays set to 1/8 J and 1/4 J and a J value of 125 Hz. The spinning rate was set at 5 kHz, typical pulse lengths were 13 C (90 \u2022 ) = 3 \u03bcs, 1 H (90 \u2022 ) = 2.5 \u03bcs and 1 H two-pulse phase-modulation (TPPM) decoupling was performed at 50 kHz with a phase-modulation angle of 15 \u2022 .",
+            "cite_spans": [
+                {
+                    "start": 25,
+                    "end": 29,
+                    "text": "[27]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "NMR"
+        },
+        {
+            "text": "1D spectra were acquired using the simple 13 C-RINEPT sequence with the same parameters. For the 2D spectra, 64 free induction decays were acquired, with 64 to 512 scans summed, a recycle delay of 3 s, a spectral width of 32 kHz and 8000 complex points. The total acquisition time was between 2 and 14 h. The data were treated using the Bruker TopSpin 3.2 software.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "NMR"
+        },
+        {
+            "text": "Resonance assignments followed that of previously published data [22, 24, 27, 30, 31] , using the C \u03c9\u2212n convention, where n is the total number of segments, decreasing from the terminal methyl segment, C \u03c9 , to the upper carbonyl segment C 1 . This representation permits a segmentby-segment comparison of the chain regions. Backbone regions are assigned according to the stereospecific nomenclature (sn) convention for the glycerol moiety. Phosphocholine head group carbons are given Greek (\u03b1, \u03b2, \u03b3) letter designations. The internal reference was chosen to be the acyl chain terminal 13 CH 3 resonance assigned to 14 ppm for all lipids and surfactants studied here.",
+            "cite_spans": [
+                {
+                    "start": 65,
+                    "end": 69,
+                    "text": "[22,",
+                    "ref_id": null
+                },
+                {
+                    "start": 70,
+                    "end": 73,
+                    "text": "24,",
+                    "ref_id": null
+                },
+                {
+                    "start": 74,
+                    "end": 77,
+                    "text": "27,",
+                    "ref_id": null
+                },
+                {
+                    "start": 78,
+                    "end": 81,
+                    "text": "30,",
+                    "ref_id": null
+                },
+                {
+                    "start": 82,
+                    "end": 85,
+                    "text": "31]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "NMR"
+        },
+        {
+            "text": "Order parameters were extracted from the 2D DROSS spectra by measuring the dipolar splittings of the Pake doublet at each carbon site. This splitting was converted into a dipolar coupling by taking the scaling factor \u03c7 into account. The absolute value of the segmental order parameter is an additional \"scaling factor\" \u03c7 of the static dipolar coupling into the measured dipolar coupling. Since the static dipolar coupling, on the order of 20 kHz, is not known with high precision for each carbon, we have adjusted it empirically in the case of DMPC, by comparing it to previously determined values [22, 27, 30 ].",
+            "cite_spans": [
+                {
+                    "start": 598,
+                    "end": 602,
+                    "text": "[22,",
+                    "ref_id": null
+                },
+                {
+                    "start": 603,
+                    "end": 606,
+                    "text": "27,",
+                    "ref_id": null
+                },
+                {
+                    "start": 607,
+                    "end": 609,
+                    "text": "30",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "NMR"
+        },
+        {
+            "text": "We recorded the scattered intensity I as a function of the scattering vector q = 4\u03c0 \u03bb sin(\u03b8), where \u03bb is the X-ray wavelength and 2\u03b8 is the angle between the incident and the scattered beams.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "WAXS"
+        },
+        {
+            "text": "Lipids. X-ray scattering measurements on the GramA/ DLPC and GramA/DMPC systems were performed at the ID02 beamline (ESRF, Grenoble), in a SAXS+WAXS configuration, at an X-ray energy of 12.4 keV (\u03bb = 1\u00c5). The WAXS range was from 5 to 53 nm \u22121 . We recorded the integrated intensity I(q) and subtracted the scattering signal of an empty capillary, as well as that of a water sample (weighted by the water volume fraction in the lipid samples). We used nine peptide-to-lipid molar ratios P/L ranging from 0 to 1/5 and three temperature points: 20, 30 and 40 \u2022 C. The chain peak was fitted with a Lorentzian function:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "WAXS"
+        },
+        {
+            "text": "We are mainly interested in the parameter \u03b3, the halfwidth at half-maximum (HWHM) of the peak.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "WAXS"
+        },
+        {
+            "text": "Surfactants. The GramA/DDAO and GramA/C 12 EO 4 systems were studied using an in-house setup using as source a molybdenum rotating anode [32] . The X-ray energy is 17.4 keV (\u03bb = 0.71\u00c5) and the sample-to-detector distance is 75 cm, yielding an accessible q-range of 0.3 to 30 nm \u22121 . We used five peptide-to-surfactant molar ratios (also denoted by P/L) ranging from 0 to 1/5.5 and eight temperature points, from 0 to 60 \u2022 C. The best fit for the peak was obtained using a Gaussian function:",
+            "cite_spans": [
+                {
+                    "start": 137,
+                    "end": 141,
+                    "text": "[32]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "WAXS"
+        },
+        {
+            "text": "For coherence with the measurements on lipid systems, we present the results in terms of the HWHM \u03b3 = \u221a 2 ln 2 \u03c3. We emphasize that the difference in peak shape (Lorentzian vs. Gaussian) is intrinsic to the systems (double-chain lipids vs. single-chain surfactants) and not due to the resolution of the experimental setups, which is much better than the typical HWHM values measured.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "WAXS"
+        },
+        {
+            "text": "We acquired twelve 2D spectra for various surfactants and GramA concentration. Figure 1 shows the 2D DROSS NMR spectrum of C 12 EO 4 with a molar GramA concentration P/L = 0.118.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 79,
+                    "end": 87,
+                    "text": "Figure 1",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "NMR"
+        },
+        {
+            "text": "For each 2D spectrum, slices were extracted at each carbon position and order parameters were deduced. Figure 2 shows a set of such representative slices (at the position C \u03c9\u22122 ).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 103,
+                    "end": 111,
+                    "text": "Figure 2",
+                    "ref_id": "FIGREF1"
+                }
+            ],
+            "section": "NMR"
+        },
+        {
+            "text": "As already explained, carbons at the glycerol backbone and at the first two positions along the acyl chains were discarded. Figure 3 shows the order profiles determined for each lipid and surfactant, with variable amounts of GramA.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 124,
+                    "end": 132,
+                    "text": "Figure 3",
+                    "ref_id": "FIGREF2"
+                }
+            ],
+            "section": "NMR"
+        },
+        {
+            "text": "As shown in fig. 3 , there is hardly any change for the head group region (C \u03b1 , C \u03b2 and C \u03b3 ), which is expected, considering the high mobility of this region, except in DDAO (CH 3 , C 2 and C 3 ). In the aliphatic region, in DMPC ( fig. 3(a) ), the order parameter increases for a ratio of P/L = 0.06 and then decreases for the P/L = 0.115. In DLPC and C 12 EO 4 mixtures (figs. 3(b) and (c)), the order parameter slightly increases when adding the peptide compared to the pure lipids with no significant dependence on P/L, reaching almost the same values for both P/L = 0.053 and P/L = 0.112. For DDAO ( fig. 3(d) ) we observe a remarkable increase in the order parameter profile with increasing P/L all along the molecule but especially in the acyl chain region.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 12,
+                    "end": 18,
+                    "text": "fig. 3",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 234,
+                    "end": 243,
+                    "text": "fig. 3(a)",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 607,
+                    "end": 616,
+                    "text": "fig. 3(d)",
+                    "ref_id": "FIGREF2"
+                }
+            ],
+            "section": "NMR"
+        },
+        {
+            "text": "Overall, we conclude that the order profiles significantly increase along the acyl chains with the concentration of gramicidin, except in the case of DMPC where the order profile globally increases with the addition of P/L = 0.05 of gramicidin and then decreases at P/L = 0.11. This peculiar effect was already qualitatively observed by Rice and Oldfield, at the \u03c9 position by 2 H NMR [24] , and by Cornell and Keniry, measuring the carbonyl CSA by 13 C NMR [33] . The increase is larger in DLPC than in DMPC, as already observed by De Planque by 2 H NMR with P/L = 0.03 gramicidin [26] . The increase is also significant in DDAO, as observed by Or\u00e4dd et al. by 2 H NMR [6] . In the head group region, effects are generally smaller, within the error bar, except for DDAO where we show that gramicidin has the same effect as on the acyl chains.",
+            "cite_spans": [
+                {
+                    "start": 385,
+                    "end": 389,
+                    "text": "[24]",
+                    "ref_id": null
+                },
+                {
+                    "start": 458,
+                    "end": 462,
+                    "text": "[33]",
+                    "ref_id": null
+                },
+                {
+                    "start": 582,
+                    "end": 586,
+                    "text": "[26]",
+                    "ref_id": null
+                },
+                {
+                    "start": 670,
+                    "end": 673,
+                    "text": "[6]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "NMR"
+        },
+        {
+            "text": "Consequently, we show that gramicidin generally rigidifies the acyl chains of DLPC, C 12 EO 4 and DDAO, as well as the head group region of DDAO. In the case of DMPC, gramicidin first rigidifies the acyl chains, but more peptides tend to return the membrane to its original fluidity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "NMR"
+        },
+        {
+            "text": "The chain peak has long been used as a marker for the ordered or disordered state of the hydrocarbon chains within the bilayer [34] . For lipids, an important parameter is the main transition (or \"chain melting\") temperature, at which the chains go from a gel to a liquid crystalline (in short, \"liquid\") phase [35] . The main transition temperature of pure DLPC is at about \u22121 \u2022 C [36] [37] [38] [39] and that of pure DMPC is between 23 \u2022 C and 24 \u2022 C [36] [37] [38] [39] [40] .",
+            "cite_spans": [
+                {
+                    "start": 127,
+                    "end": 131,
+                    "text": "[34]",
+                    "ref_id": null
+                },
+                {
+                    "start": 311,
+                    "end": 315,
+                    "text": "[35]",
+                    "ref_id": null
+                },
+                {
+                    "start": 382,
+                    "end": 386,
+                    "text": "[36]",
+                    "ref_id": null
+                },
+                {
+                    "start": 387,
+                    "end": 391,
+                    "text": "[37]",
+                    "ref_id": null
+                },
+                {
+                    "start": 392,
+                    "end": 396,
+                    "text": "[38]",
+                    "ref_id": "BIBREF38"
+                },
+                {
+                    "start": 397,
+                    "end": 401,
+                    "text": "[39]",
+                    "ref_id": null
+                },
+                {
+                    "start": 453,
+                    "end": 457,
+                    "text": "[36]",
+                    "ref_id": null
+                },
+                {
+                    "start": 458,
+                    "end": 462,
+                    "text": "[37]",
+                    "ref_id": null
+                },
+                {
+                    "start": 463,
+                    "end": 467,
+                    "text": "[38]",
+                    "ref_id": "BIBREF38"
+                },
+                {
+                    "start": 468,
+                    "end": 472,
+                    "text": "[39]",
+                    "ref_id": null
+                },
+                {
+                    "start": 473,
+                    "end": 477,
+                    "text": "[40]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "WAXS"
+        },
+        {
+            "text": "For the lipids, in the liquid phase the peak width increases slightly with P/L for all temperatures ( fig. 4 ). In the gel phase of DMPC at 20 \u2022 C ( fig. 4 (right) and fig. 5 ) this disordering effect is very pronounced, in agreement with the results of several different techniques, reviewed in ref. [41] (sect. V-A). The linear increase in HWHM with P/L can be interpreted as a broadening (rather than a shift) of the transition. The liquid crystalline phase value of the HWHM is reached only at the highest investigated P/L, amounting to one GramA molecule per 5 or six lipids.",
+            "cite_spans": [
+                {
+                    "start": 301,
+                    "end": 305,
+                    "text": "[41]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 102,
+                    "end": 108,
+                    "text": "fig. 4",
+                    "ref_id": "FIGREF3"
+                },
+                {
+                    "start": 149,
+                    "end": 174,
+                    "text": "fig. 4 (right) and fig. 5",
+                    "ref_id": "FIGREF3"
+                }
+            ],
+            "section": "WAXS"
+        },
+        {
+            "text": "For surfactants, which we only studied in the liquid crystalline phase, changes to the chain peak are slight. In C 12 EO 4 membranes, the peak position q 0 decreases very slightly with temperature ( fig. 6 ), while the peak width is almost unchanged by temperature or gramicidin content ( fig. 7 (right) ). As an example, we observe a small decrease of q 0 with the temperature at P/L = 0.073 ( fig. 6 (left) ), as well as a very slight increase with P/L at 20 \u2022 C, as seen in fig. 6 (right) . If we take the overall WAXS peak position shift as a function of temperature and for all inclusions concentration (data not shown) we have a small temperature dependence for each P/L. Comparing the value in absence of inclusion, the peak position slightly shifts after adding gramicidin at a P/L = 0.015 but remains almost the same for the different gramicidin content, showing no significant influence of the inclusions on the C 12 EO 4 membranes. This conclusion is confirmed by the very modest change in the HWHM values presented in fig. 7 (right). At P/L = 0, the HWHM is very close to 2.6 nm \u22121 for all temperatures. As the gramicidin content increases, we observe a small gap between the different temperatures: the width stays constant or increases for the lower temperatures (up to about 40 \u2022 C) and decreases for the higher ones. This gap widens at high gramicidin content (P/L > 0.07).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 199,
+                    "end": 205,
+                    "text": "fig. 6",
+                    "ref_id": "FIGREF5"
+                },
+                {
+                    "start": 289,
+                    "end": 303,
+                    "text": "fig. 7 (right)",
+                    "ref_id": "FIGREF6"
+                },
+                {
+                    "start": 395,
+                    "end": 408,
+                    "text": "fig. 6 (left)",
+                    "ref_id": "FIGREF5"
+                },
+                {
+                    "start": 477,
+                    "end": 491,
+                    "text": "fig. 6 (right)",
+                    "ref_id": "FIGREF5"
+                },
+                {
+                    "start": 1030,
+                    "end": 1036,
+                    "text": "fig. 7",
+                    "ref_id": "FIGREF6"
+                }
+            ],
+            "section": "WAXS"
+        },
+        {
+            "text": "In the case of DDAO, the influence of gramicidin content is more notable than for C 12 EO 4 and the behavior is richer, especially in the presence of cholesterol.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "WAXS"
+        },
+        {
+            "text": "Without cholesterol, the DDAO WAXS peaks coincide for the different temperatures at a given inclusion concentration (e.g., in fig. 8 (left) at P/L = 0.178) whereas the profiles differ according to the gramicidin concentration for a given temperature (see fig. 8 (right) ).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 126,
+                    "end": 132,
+                    "text": "fig. 8",
+                    "ref_id": "FIGREF7"
+                },
+                {
+                    "start": 255,
+                    "end": 269,
+                    "text": "fig. 8 (right)",
+                    "ref_id": "FIGREF7"
+                }
+            ],
+            "section": "WAXS"
+        },
+        {
+            "text": "These observations differ in presence of cholesterol where for one concentration of gramicidin inclusions (e.g., case of P/L = 0.082 in fig. 9 (left) ) at different temperatures, we observe two families in which the spectra are quasi identical: one group at low temperatures (0-30 \u2022 C) and another distinct group at higher temperatures (40-60 \u2022 C). At 20 \u2022 C, the peaks for DDAO cholesterol tend to superpose for P/L > 0.028 (data not shown), whereas at 50 \u2022 C ( fig. 9 (right) ) the peak profiles differ and vary with P/L. For the DDAO system, the peak occurs at much lower q 0 with cholesterol than without: q 0 = 12.77 nm \u22121 at 20 \u2022 C, 12.62 nm \u22121 at 30 \u2022 C and 12.28 nm \u22121 at 50 \u2022 C. Thus, the cholesterol expands DDAO bilayers, in contrast with the condensing effect observed in lipid membranes [42, 43] . More detailed molecular-scale studies would be needed to understand this phenomenon.",
+            "cite_spans": [
+                {
+                    "start": 800,
+                    "end": 804,
+                    "text": "[42,",
+                    "ref_id": null
+                },
+                {
+                    "start": 805,
+                    "end": 808,
+                    "text": "43]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 136,
+                    "end": 149,
+                    "text": "fig. 9 (left)",
+                    "ref_id": "FIGREF8"
+                },
+                {
+                    "start": 463,
+                    "end": 477,
+                    "text": "fig. 9 (right)",
+                    "ref_id": "FIGREF8"
+                }
+            ],
+            "section": "WAXS"
+        },
+        {
+            "text": "Without cholesterol, the width of the main peak in DDAO membranes is little affected by a temperature change, at least between 0 \u2022 C and 60 \u2022 C. Without gramicidin, we observe two distinct HWHM values: \u223c 2.38 nm \u22121 at the lower temperatures (between 0 \u2022 C and room temperature) and \u223c 2.5 nm \u22121 for higher temperatures (between 30 \u2022 C and 60 \u2022 C), but this gap closes with the addition of gramicidin, and at high P/L only an insignificant difference of 0.05 nm \u22121 persists ( fig. 7 (left) ).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 474,
+                    "end": 487,
+                    "text": "fig. 7 (left)",
+                    "ref_id": "FIGREF6"
+                }
+            ],
+            "section": "WAXS"
+        },
+        {
+            "text": "On the other hand, at a given temperature the HWHM does vary as a function of P/L. This change is sigmoidal, with an average HWHM of \u223c 2.4 nm \u22121 for P/L < 0.05 and \u223c 2.7 nm \u22121 for P/L > 0.11. Thus, above this concentration, the gramicidin decreases slightly the positional order of the chains.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "WAXS"
+        },
+        {
+            "text": "An opposite effect is observed in the presence of cholesterol ( fig. 10) , where at high temperature (40-60 \u2022 C) the HWHM drops with the P/L: for instance, from 2.37 nm \u22121 to 2.08 nm \u22121 at 60 \u2022 C. At low temperature (0-30 \u2022 C) there is no systematic dependence on P/L. Overall we can conclude that gramicidin addition has an effect that differs according to the membrane composition. The temperature has a significant influence only in the presence of cholesterol. In all surfactant systems and over the temperature range from 0 to 60 \u2022 C, the peak is broad, indicating that the alkyl chains are in the liquid crystalline state. There are, however, subtle differences between the different compositions, as detailed below.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 64,
+                    "end": 72,
+                    "text": "fig. 10)",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "WAXS"
+        },
+        {
+            "text": "In C 12 EO 4 membranes, the peak position q 0 decreases very slightly with temperature, while the HWHM is almost unchanged by temperature or gramicidin content.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "WAXS"
+        },
+        {
+            "text": "For DDAO (without cholesterol), q 0 also decreases with temperature at a given P/L, but increases with P/L at fixed temperature. On adding gramicidin, the HWHM increases slightly with a sigmoidal dependence on P/L. Thus, a high gramicidin concentration P/L \u2265 0.1 reduces the positional order of the chains in DDAO bilayers.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "WAXS"
+        },
+        {
+            "text": "The opposite behavior is measured in DDAO membranes with cholesterol. Adding gramicidin inclusions have two distinct behaviors depending on the temperature. For low temperatures (between 0 \u2022 C and 30 \u2022 C) we have a small peptide concentration dependence and a clear temperature correlation, whereas at high temperatures (between 40 \u2022 C and 60 \u2022 C) we have a strong decrease in the HWHM in presence of inclusions depending only with the P/L content without any variation with the temperature rise. Since at P/L = 0 the HWHM value is very close for the different temperatures then we can conclude that adding gramicidin to a membrane containing cholesterol helps rigidify it.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "WAXS"
+        },
+        {
+            "text": "Although the orientational and positional order parameters are distinct physical parameters, one would expect them to be correlated (e.g., straighter molecules can be more tightly packed, as in the gel phase with respect to the fluid phase.) This tendency is indeed observed in our measurements, with the exception of DDAO.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Comparing the NMR and WAXS results"
+        },
+        {
+            "text": "We measured by NMR that the orientational order parameter for DMPC increases when adding P/L = 0.05 and slightly decreases at P/L = 0.1 ( fig. 3(a) ). This behavior was also measured by WAXS for the positional order parameter at both P/L values ( fig. 4 (right) ). Similarly, we measured for DLPC acyl chains the same orientational and positional order profiles where the order increases for P/L = 0.05 and remains the same when adding P/L = 0.1 gramicidin (figs. 3(b) and 4 (left)).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 138,
+                    "end": 147,
+                    "text": "fig. 3(a)",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 247,
+                    "end": 261,
+                    "text": "fig. 4 (right)",
+                    "ref_id": "FIGREF3"
+                }
+            ],
+            "section": "Comparing the NMR and WAXS results"
+        },
+        {
+            "text": "As for the C 12 EO 4 surfactant acyl chains, we found a modest raise in both the orientational and the positional order parameters when adding the gramicidin peptide with no dependence on the P/L molar ratio (figs. 3(c) and 7 (right)).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Comparing the NMR and WAXS results"
+        },
+        {
+            "text": "In the case of DDAO we found that adding gramicidin significantly increases the orientational order ( fig. 3(d) ) and decreases the positional order ( fig. 7 (left) ). Solidstate NMR also shows an abrupt change in the head group region when little GramA is added, followed by a more gradual ordering of the acyl chain when more GramA is added. This may imply a particular geometrical reorganisation of DDAO around the GramA inclusion that could be tested with molecular models.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 102,
+                    "end": 111,
+                    "text": "fig. 3(d)",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 151,
+                    "end": 164,
+                    "text": "fig. 7 (left)",
+                    "ref_id": "FIGREF6"
+                }
+            ],
+            "section": "Comparing the NMR and WAXS results"
+        },
+        {
+            "text": "Using solid-state NMR and wide-angle X-ray scattering, we showed that inserting Gramicidin A in lipid and surfactant bilayers modifies the local order of the constituent acyl chains depending on multiple factors. In particular, we studied the influence of membrane composition and temperature on the local order.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusions"
+        },
+        {
+            "text": "The behavior of this local order is quite rich, with significant differences between lipids, on the one hand, and single-tail surfactants, on the other, but also between DDAO and all the other systems.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusions"
+        },
+        {
+            "text": "We showed that adding gramicidin influences the orientational order of the acyl chains and we find a similar behavior for the orientational order and the positional order, except in the particular case of DDAO.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusions"
+        },
+        {
+            "text": "In this system, GramA content seems to notably influence the DDAO acyl chains by decreasing their positional order and increasing their orientational order. GramA also influences the orientational order of the head groups. Also in DDAO, we showed by WAXS that the temperature has a significant influence on the positional order only in the presence of cholesterol.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusions"
+        },
+        {
+            "text": "In the gel phase of DMPC, GramA addition leads to a linear decrease in positional order, saturating at the liquid phase value for a molar ratio P/L between 1/6 and 1/5. In the liquid phase, we measure relatively small modifications in the local order in terms of position and orientation when adding Gramicidin A, especially in the case of DMPC, DLPC and C 12 EO 4 . This is a very significant result, which allows further elaboration of elastic models in the presence of inclusions by using the same elastic constants obtained for bare membranes.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusions"
+        },
+        {
+            "text": "As seen above for DDAO, in some membranes the presence of inclusions influences differently the positional and orientational order of the acyl chains. Consequently, combining both techniques (NMR and WAXS) on the same system is very useful in obtaining a full image of the local order. A more detailed analysis could be performed by comparing our results with molecular dynamics simulations. The correlation between changes in the chain order and larger-scale parameters of the bilayer (e.g., the elastic properties) could be established by using dynamic techniques, such as neutron spin echo.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusions"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF38": {
+            "ref_id": "b38",
+            "title": "Phospholipid Bilayers: Physical Principles and Models",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Cevc",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Marsh",
+                    "suffix": ""
+                }
+            ],
+            "year": 1987,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Example of a 2D 1 H-13 C DROSS spectrum for GramA/C12EO4 with P/L = 0.118.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Dipolar coupling slices of the C\u03c9\u22122 at 30 \u2022 C.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "Orientational order parameter |SCH| for DMPC (a), DLPC (b), C12EO4 (c) and DDAO (d) bilayers embedded with GramA pores for different P/L at 30 \u2022 C. Error bars are smaller than symbol size.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "Width of the chain peak for DLPC (left) and DMPC (right) bilayers as a function of the GramA doping at three temperatures.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF4": {
+            "text": "Chain peak for DMPC in bilayers doped with varying amounts of GramA at 20 \u2022 C.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF5": {
+            "text": "Scattered signal I(q) for C12EO4 bilayers, as a function of temperature for a sample with P/L = 0.073 (left) and as a function of concentration at room temperature: T = 20 \u2022 C (right).",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF6": {
+            "text": "HWHM as a function of the concentration P/L, for all measured temperatures. DDAO bilayers (left) and C12EO4 bilayers (right).",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF7": {
+            "text": "Scattered signal I(q) for DDAO bilayers, as a function of temperature for the most concentrated sample, with P/L = 0.178 (left) and for all concentrations at T = 40 \u2022 C (right).",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF8": {
+            "text": "Scattered signal I(q) for DDAO/Cholesterol bilayers, as a function of temperature for a sample with P/L = 0.082 (left) and as a function of concentration at T = 50 \u2022 C (right).",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF9": {
+            "text": "HWHM as a function of the concentration P/L, for all measured temperatures in the GramA/DDAO+Cholesterol/ H 2O system.",
+            "latex": null,
+            "type": "figure"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "We thank the CMCP (UPMC, CNRS, Coll\u00e8ge de France) for the use of their Bruker AVANCE 300 WB NMR spectrometer. We acknowledge ESRF for the provision of beamtime (experiment SC-2876) and J\u00e9r\u00e9mie Gummel for his support. This work was supported by the ANR under contract MEMINT (2012-BS04-0023). We also acknowledge B. Ab\u00e9cassis and O. Tach\u00e9 for their support with the WAXS experiment on the MOMAC setup at the LPS.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "acknowledgement"
+        },
+        {
+            "text": "DC and DEW designed research. All authors performed experiments. EA and DC analyzed the data. All the authors contributed to the interpretation of the results and the writing of the manuscript.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Author contribution statement"
+        }
+    ]
+}

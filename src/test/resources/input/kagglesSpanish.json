@@ -1,0 +1,1885 @@
+{
+    "paper_id": "00033d5a12240a8684cfe943954132b43434cf48",
+    "metadata": {
+        "title": "Detection of Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) by Mass Spectrometry",
+        "authors": [
+            {
+                "first": "Petra",
+                "middle": [],
+                "last": "Wandernoth",
+                "suffix": "",
+                "affiliation": {},
+                "email": "p.wandernoth@molekularpatho-trier.dep.w."
+            },
+            {
+                "first": "Katharina",
+                "middle": [],
+                "last": "Kriegsmann",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University Hospital Heidelberg",
+                    "location": {
+                        "postCode": "69120",
+                        "settlement": "Heidelberg",
+                        "country": "Germany"
+                    }
+                },
+                "email": "kriegsmann@patho-trier.dej.k."
+            },
+            {
+                "first": "Cristina",
+                "middle": [],
+                "last": "Groh-Mohanu",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Martin",
+                "middle": [],
+                "last": "Daeumer",
+                "suffix": "",
+                "affiliation": {},
+                "email": "m.daeumer@immungenetik-kl.de"
+            },
+            {
+                "first": "Peter",
+                "middle": [],
+                "last": "Gohl",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Bioscientia",
+                    "location": {
+                        "postCode": "576080",
+                        "settlement": "Ingelheim",
+                        "country": "Germany"
+                    }
+                },
+                "email": "peter.gohl@bioscientia.dep.g."
+            },
+            {
+                "first": "Oliver",
+                "middle": [],
+                "last": "Harzer",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Bioscientia",
+                    "location": {
+                        "postCode": "576080",
+                        "settlement": "Ingelheim",
+                        "country": "Germany"
+                    }
+                },
+                "email": "oliver.harzer@bioscientia.deo.h."
+            },
+            {
+                "first": "Mark",
+                "middle": [],
+                "last": "Kriegsmann",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University Hospital Heidelberg",
+                    "location": {
+                        "postCode": "69120",
+                        "settlement": "Heidelberg",
+                        "country": "Germany"
+                    }
+                },
+                "email": "katharina.kriegsmann@med.uni-heidelberg.de"
+            },
+            {
+                "first": "Joerg",
+                "middle": [],
+                "last": "Kriegsmann",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "Background: Amplification of viral ribonucleic acid (RNA) by real-time reverse transcriptase polymerase chain reaction (rRT-PCR) is the gold standard to detect severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). Since the initial outbreak, strategies to detect and isolate patients have been important to avoid uncontrolled viral spread. Although testing capacities have been upscaled, there is still a need for reliable high throughput test systems, specifically those that require alternative consumables. Therefore, we tested and compared two different methods for the detection of viral PCR products: rRT-PCR and mass spectrometry (MS). Methods: Viral RNA was isolated and amplified from oro-or nasopharyngeal swabs. A total of 22 samples that tested positive and 22 samples that tested negative for SARS-CoV-2 by rRT-PCR were analyzed by MS. Results of the rRT-PCR and the MS protocol were compared. Results: Results of rRT-PCR and the MS test system were in concordance in all samples. Time-to-results was faster for rRT-PCR. Hands-on-time was comparable in both assays. Conclusions: MS is a fast, reliable and cost-effective alternative for the detection of SARS-CoV-2 from oral and nasopharyngeal swabs. Author Contributions: Conceptualization, J.K.; data curation, P.W. and P.G.; formal analysis, P.W., K.K. and C.G.-M.; investigation, K.K.; methodology, P.W., C.G.-M., M.D. and O.H.; project administration, J.K.; resources, M.D. and P.G.; software, P.G. and O.H.; supervision, J.K.; validation, M.K.; visualization, M.K.; writing-original draft, M.K.; writing-review and editing, P.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "El síndrome respiratorio agudo severo coronavirus 2 (SARS-CoV-2) es un virus del ácido ribonucleico (ARN) monocatenario de sentido positivo y se ha identificado como el agente causante de la enfermedad por coronavirus 2019 (COVID-19) [1]. Para evitar la diseminación viral incontrolada, se recomendó realizar pruebas de alto rendimiento y el posterior aislamiento de las personas infectadas [2]. Sin embargo, debido a las capacidades limitadas de análisis de laboratorio, solo los individuos sintomáticos pudieron ser evaluados al comienzo de la pandemia de 2020 [3]. Por otro lado, se ha demostrado que una gran proporción de individuos permanecen asintomáticos. Por lo tanto, una definición clínica de COVID-19 no es confiable y actualmente se recomienda la confirmación de laboratorio del SARS-CoV-2 para confirmación [4]. Como los pacientes asintomáticos dieron positivo al SARS-CoV-2, la falta de capacidad de prueba dio como resultado una falta de conocimiento del verdadero riesgo de infección subyacente [5, 6]. Desde entonces, las capacidades de prueba se han mejorado, pero todavía existe una necesidad urgente de métodos de prueba de alto rendimiento confiables y rentables, específicamente debido a que las regulaciones se están flexibilizando actualmente y los lugares de propagación rápida deben detectarse lo antes posible, para evitar propagación viral incontrolada.",
+            "cite_spans": [
+                {
+                    "start": 220,
+                    "end": 223,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 347,
+                    "end": 350,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 491,
+                    "end": 494,
+                    "text": "[3]",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 735,
+                    "end": 738,
+                    "text": "[4]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 894,
+                    "end": 897,
+                    "text": "[5,",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 898,
+                    "end": 900,
+                    "text": "6]",
+                    "ref_id": "BIBREF5"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "Las técnicas de espectrometría de masas (EM) han complementado o sustituido en gran medida a los métodos tradicionales de la medicina de laboratorio, la toxicología, la microbiología y la patología molecular y son adecuadas para la detección fiable, rentable y rápida de productos de reacción en cadena de la polimerasa amplificada (PCR) [7] [ 8] [9] [10] [11]. Por lo tanto, este método tiene un gran potencial para complementar el arsenal diagnóstico actual, especialmente en momentos en los que la escasez de reactivos puede limitar la aplicación de la transcriptasa inversa en tiempo real (rRT) -PCR, que es el estándar de oro actual para la detección del SARS. -CoV-2 [12].",
+            "cite_spans": [
+                {
+                    "start": 293,
+                    "end": 296,
+                    "text": "[7]",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 297,
+                    "end": 300,
+                    "text": "[8]",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 301,
+                    "end": 304,
+                    "text": "[9]",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 305,
+                    "end": 309,
+                    "text": "[10]",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 310,
+                    "end": 314,
+                    "text": "[11]",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 591,
+                    "end": 595,
+                    "text": "[12]",
+                    "ref_id": "BIBREF11"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "Por lo tanto, establecimos y probamos un protocolo de prueba basado en EM para determinar su capacidad para detectar SARS-CoV-2 a partir de hisopos orales o nasofaríngeos y comparamos los resultados con rRT-PCR.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "Se recogieron hisopos orales o nasofaríngeos de los pacientes y se transfirieron al laboratorio en medio de transporte viral. El aislamiento de ARN y la rRT-PCR para la detección de SARS-CoV-2 se realizaron el mismo día (Instituto de Inmunología y Genética, Kaiserslautern). Un total de 22 muestras que dieron positivo y 22 muestras que dieron negativo fueron seleccionadas y probadas con un ensayo de EM SARS-CoV-2 en dos laboratorios independientes (Institute for Immunology and Genetics, Kaiserslautern e Institute for Molecular Pathology, Trier) en dos semanas después de rRT-PCR. Se obtuvieron muestras de los centros de detección de corona de dos hospitales locales en el período comprendido entre el 14 de marzo de 2020 y el 24 de abril de 2020. Se compararon los resultados de MS y rRT-PCR. Se ha obtenido el consentimiento informado por escrito de todos los pacientes.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Patient Samples and Workflow"
+        },
+        {
+            "text": "El ARN de las muestras clínicas se aisló con el kit chemagic viral DNA / RNA 300 special H96 (cat CMG-1033-S, PerkinElmer, Waltham, MA, EE. UU.) En lotes de 96 muestras con una entrada de muestra de 300 µL en el módulo I de separación magnética de chemagic instrumento (PerkinElmer) en aproximadamente 60 min. El ARN eluido se utilizó para análisis posteriores o se almacenó en \u221280.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Ribonucleic Acid Extraction"
+        },
+        {
+            "text": "La amplificación del ARN viral mediante rRT-PCR se realizó con el kit virellaSARS-CoV-2 seqc rRT-PCR con certificación CE disponible comercialmente que incluye cebadores y sondas de doble marcaje (ref. G01128-32, Gerbion, Kornwestheim, Alemania) usando 6 µl de ARN de entrada en una mezcla total de RT-PCR de 20 µL en un instrumento ABI 7500 (Applied Biosystem, Waltham, MA, EE. UU.) de acuerdo con los protocolos del fabricante. Según el fabricante, los cebadores utilizados son similares a los publicados [12]. El límite de detección (LOD) del kit respectivo fue de 10 copias del genoma por reacción. El ensayo se diseñó para detectar los siguientes objetivos del SARS-CoV-2: el gen RdRP (ORF1ab) y E.",
+            "cite_spans": [
+                {
+                    "start": 464,
+                    "end": 468,
+                    "text": "[12]",
+                    "ref_id": "BIBREF11"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Real-Time Reverse Transcriptase Polymerase Chain Reaction"
+        },
+        {
+            "text": "Se realizó un ensayo multiplex de SARS-CoV-2 con certificación CE disponible comercialmente en una placa de 96 pocillos que incluía una RT-PCR de un solo paso, una fosfatasa alcalina de camarón (SAP) y una reacción de extensión utilizando el reactivo SARS-CoV-2 Set (ref. 13274F, Agena Bioscience, Hamburgo, Alemania) según el protocolo del fabricante R1.X1 (Agena Bioscience). Se utilizaron tres µl de entrada de ARN en una mezcla total de RT-PCR de 5 µl en un termociclador (Biometra TAdvanced PCR Thermocycler, Analytic Jena, Jena, Alemania). Para eliminar los nucleótidos sobrantes, cada reacción de RT-PCR se trató con mezcla de SAP. Se añadieron dos µl de mezcla de reacción de extensión compuesta de nucleótidos terminadores modificados en masa para alargar las hebras de ácido desoxirribonucleico complementario (cDNA) amplificado en la posición de nucleótido de interés, dependiendo de la presencia del virus SARS-CoV-2. El ensayo incluyó un objetivo de RNaseP como control de calidad interno (QC). Cada muestra se trató con 41 µL de agua nanopura (> 18 mΩ) y se transfirió a un módulo de preparación de chips (Agena Bioscience) para procesar muestras de PCR posteriores a la extensión para desalarlas en 15 mg de resina limpia (ref. 8040, Agena Bioscience), colocando en un Spectro-CHIP (Agena Bioscience) recubierto con matriz y análisis en un espectrómetro de masas de tiempo de vuelo de ionización / desorción láser asistido por matriz (MassARRAY Analyzer 4, Agena Bioscience). Se generó un informe final (Informe SC2 v1.0, Agena Bioscience) dentro del software comercial (MassARRAY Typer Analyzer Software v4.1.83, Agena Bioscience), que enumeraba todas las muestras, el control de calidad y el estado del SARS-CoV-2, seguido de detalles sobre cada objetivo individual del SARS-CoV-2. El LOD del kit respectivo fue de 10 copias del genoma por reacción. El ensayo se diseñó para detectar los siguientes objetivos del SARS-CoV-2: genes de la nucleocápside viral (N1, 2 y 3; áreas del genoma: 28653-28760, 28880-28978, 28076-28190), ORF1ab / nsp3 y ORF1ab / nsp10; áreas del genoma: 3223-3335 y 13342-13432 (Tabla 1). Todos los componentes del ensayo exhiben una homología de secuencia del 100% con las regiones conservadas del SARS-CoV-2, excepto el cebador de PCR directo para el ensayo SC2_N2. Según los datos de secuencia al 20 de mayo de 2020, el 8% de las secuencias de SARS-CoV-2 tienen un desajuste de tres nucleótidos con los primeros tres 5 nucleótidos terminales del cebador de PCR directo SC2_N2 (longitud de 22 nucleótidos). Esto da como resultado la homología del cebador de PCR del 86% para el 8% de la población de SARS-CoV-2 y la homología ponderada del 98,9%. El desajuste se encuentra en el extremo 5 del cebador de PCR y no afecta el rendimiento de la prueba [13]. Las muestras se identificaron como positivas si se detectaron ≥2 dianas de SARS-CoV-2 y el CC pasó, no válido si el CC falló y negativo si se detectaron <2 dianas de SARS-CoV-2 y se aprobó el CC.",
+            "cite_spans": [
+                {
+                    "start": 2455,
+                    "end": 2459,
+                    "text": "[13]",
+                    "ref_id": "BIBREF12"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 1883,
+                    "end": 1891,
+                    "text": "(Table 1",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "SARS-CoV-2 Mass Spectrometrical Assay"
+        },
+        {
+            "text": "Las estadísticas descriptivas se realizaron en el software estadístico R (v. 4.0.0. R Development Core Team, 2008). Los datos se presentan como números absolutos y porcentaje, así como mediana y rango.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Descriptive Statistics"
+        },
+        {
+            "text": "Se dispuso de datos clínicos básicos de 43 de 44 muestras de pacientes. 30 (70%) pacientes eran hombres y 13 (30%) mujeres. La edad media fue de 43 años (min-max: 7-77).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Results"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Clinical Characteristics of Coronavirus Disease 2019 in China",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Guan",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Ni",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Liang",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "Q"
+                    ],
+                    "last": "Ou",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "X"
+                    ],
+                    "last": "He",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Shan",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Lei",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "S C"
+                    ],
+                    "last": "Hui",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "N. Engl. J. Med",
+            "volume": "382",
+            "issn": "",
+            "pages": "1708--1720",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa2002032"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Disease Control, Civil Liberties, and Mass Testing-Calibrating Restrictions during the Covid-19 Pandemic",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Studdert",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Hall",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "N. Engl. J. Med",
+            "volume": "2020",
+            "issn": "",
+            "pages": "102--104",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMp2007637"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Quarantine alone or in combination with other public health measures to control COVID-19: A rapid review",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Nussbaumer-Streit",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Mayr",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Dobrescu",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Chapman",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Persad",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Klerings",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Wagner",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Siebert",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Christof",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Zachariah",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Cochrane Database Syst. Rev",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/14651858.CD013574"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Diagnosis of the Coronavirus disease (COVID-19): rRT-PCR or CT?",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Long",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Shen",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Fan",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Zeng",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Eur. J. Radiol",
+            "volume": "126",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.ejrad.2020.108961"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Clinicopathological characteristics of 8697 patients with COVID-19 in China: A meta-analysis",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Zhong",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Ji",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Pang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Fam. Med. Community Health",
+            "volume": "8",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1136/fmch-2020-000406"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Asymptomatic SARS-CoV-2 infections: What we need to know?",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Tan",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Xiao",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Meng",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Infect. Control Hosp. Epidemiol",
+            "volume": "2020",
+            "issn": "",
+            "pages": "1--2",
+            "other_ids": {
+                "DOI": [
+                    "10.1017/ice.2020.201"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "After another decade: LC-MS/MS became routine in clinical diagnostics",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Seger",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Salzmann",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Clin. Biochem",
+            "volume": "82",
+            "issn": "",
+            "pages": "2--11",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.clinbiochem.2020.03.004"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Mass Spectrometry Analysis of Drugs of Abuse: Challenges and Emerging Strategies",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Borden",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Palaty",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Termopoli",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Famiglini",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Cappiello",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Gill",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Palma",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Mass Spectrom. Rev",
+            "volume": "37",
+            "issn": "",
+            "pages": "258--280",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/mas.21624"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Emerging role of clinical mass spectrometry in pathology",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "W S"
+                    ],
+                    "last": "Fung",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Sugumar",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Ren",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Kulasingam",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "J. Clin. Pathol",
+            "volume": "2020",
+            "issn": "",
+            "pages": "61--69",
+            "other_ids": {
+                "DOI": [
+                    "10.1136/jclinpath-2019-206269"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Matrix-assisted laser desorption ionization time-of-flight mass spectrometry in clinical microbiology: An updating review",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Angeletti",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ciccozzi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Infect. Genet. Evol",
+            "volume": "76",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.meegid.2019.104063"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Effects of KRAS, BRAF, NRAS, and PIK3CA mutations on the efficacy of cetuximab plus chemotherapy in chemotherapy-refractory metastatic colorectal cancer: A retrospective consortium analysis",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "De Roock",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Claes",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Bernasconi",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "De Schutter",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Biesmans",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Fountzilas",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Kalogeras",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Kotoula",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Papamichael",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Laurent-Puig",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Lancet Oncol",
+            "volume": "11",
+            "issn": "",
+            "pages": "753--762",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1470-2045(10)70130-3"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Detection of 2019 novel coronavirus (2019-nCoV) by real-time RT-PCR",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Corman",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Landt",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Kaiser",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Molenkamp",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Meijer",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Chu",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Bleicker",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Brunink",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Schneider",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Schmidt",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Euro Surveill",
+            "volume": "25",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.2807/1560-7917.ES.2020.25.3.2000045"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Instructions for Use: SARS-CoV-2 Panel",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Bioscience",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Origin and evolution of pathogenic coronaviruses",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Cui",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Shi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Nat. Rev. Microbiol",
+            "volume": "17",
+            "issn": "",
+            "pages": "181--192",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/s41579-018-0118-9"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "A Novel Coronavirus from Patients with Pneumonia in China",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Song",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Shi",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Lu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "N. Engl. J. Med",
+            "volume": "382",
+            "issn": "",
+            "pages": "727--733",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa2001017"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Detection and analysis of nucleic acid in various biological samples of COVID-19 patients",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Peng",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Xiao",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Yan",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Luo",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Travel Med. Infect",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.tmaid.2020.101673"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Viral shedding patterns of coronavirus in patients with probable severe acute respiratory syndrome",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Cheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Wong",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Tong",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Ip",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Lo",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Lau",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Yeung",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Lim",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Lancet",
+            "volume": "363",
+            "issn": "",
+            "pages": "1699--1700",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(04)16255-7"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Laboratory testing of SARS-CoV, MERS-CoV, and SARS-CoV-2 (2019-nCoV): Current status, challenges, and countermeasures",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Yan",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Chang",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Rev. Med. Virol",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/rmv.2106"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Stability issues of RT-PCR testing of SARS-CoV-2 for hospitalized patients clinically diagnosed with COVID-19",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Yao",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Song",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Cai",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J. Med. Virol",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/jmv.25786"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Real-time RT-PCR in COVID-19 detection: Issues affecting the results",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Tahamtan",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Ardebili",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Expert Rev. Mol. Diagn",
+            "volume": "2020",
+            "issn": "",
+            "pages": "453--454",
+            "other_ids": {
+                "DOI": [
+                    "10.1080/14737159.2020.1757437"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "False-negative of RT-PCR and prolonged nucleic acid conversion in COVID-19: Rather than recurrence",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Xiao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "X"
+                    ],
+                    "last": "Tong",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J. Med. Virol",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/jmv.25855"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "COVID-19 Testing: The Threat of False-Negative Results",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "West",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Montori",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Sampathkumar",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Mayo Clin. Proc",
+            "volume": "2020",
+            "issn": "",
+            "pages": "1127--1129",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.mayocp.2020.04.004"
+                ]
+            }
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Potential false-negative nucleic acid testing results for Severe Acute Respiratory Syndrome Coronavirus 2 from thermal inactivation of samples with low viral loads",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Pan",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Long",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Yan",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Cui",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Ren",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Clin. Chem",
+            "volume": "66",
+            "issn": "",
+            "pages": "794--801",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/clinchem/hvaa091"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Nucleic acid detection with CRISPR-Cas13a/C2c2",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Gootenberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [
+                        "O"
+                    ],
+                    "last": "Abudayyeh",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Essletzbichler",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Dy",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Joung",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Verdine",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Donghia",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Daringer",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Freije",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "",
+            "volume": "356",
+            "issn": "",
+            "pages": "438--442",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.aam9321"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "Establishment and Application of a Universal Coronavirus Screening Method Using MALDI-TOF Mass Spectrometry. Front",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Xiu",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Peng",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3389/fmicb.2017.01510"
+                ]
+            }
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "Probing viruses with mass spectrometry",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Siuzdak",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "J. Mass Spectrom",
+            "volume": "33",
+            "issn": "",
+            "pages": "203--211",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/(SICI)1096-9888(199803)33:3<203::AID-JMS653>3.0.CO;2-Q"
+                ]
+            }
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "Detection of HPV subtypes by mass spectrometry in FFPE tissue specimens: A reliable tool for routine diagnostics",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Kriegsmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Wandernoth",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Lisenko",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Casadonte",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Longuespee",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Arens",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Kriegsmann",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "J. Clin. Pathol",
+            "volume": "70",
+            "issn": "",
+            "pages": "417--423",
+            "other_ids": {
+                "DOI": [
+                    "10.1136/jclinpath-2016-204017"
+                ]
+            }
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "CYP24A1 genetic variants in the vitamin D metabolic pathway are involved in the outcomes of hepatitis C virus infection among high-risk Chinese population",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [
+                        "Z"
+                    ],
+                    "last": "Fan",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Tian",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Zhong",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Xie",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Int. J. Infect. Dis",
+            "volume": "84",
+            "issn": "",
+            "pages": "80--88",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.ijid.2019.04.032"
+                ]
+            }
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "Detection of KRAS, NRAS and BRAF by mass spectrometry-A sensitive, reliable, fast and cost-effective technique",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Kriegsmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Arens",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Endris",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Weichert",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Kriegsmann",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Diagn. Pathol",
+            "volume": "10",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license",
+            "authors": [],
+            "year": null,
+            "venue": "\u00a9 2020 by the authors. Licensee MDPI",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Examples for a positive and negative rRT-PCR result. A SARS-CoV-2 negative sample ((A); ID 17) show a signal in the control RNA specific HEX channel (orange line) and process control channel ROX channel (green line). A SARS-CoV-2 positive sample ((B); ID 5) shows additionally a SARS-CoV-2 specific amplification in the FAM channel (red line) and beta-Coronavirus detection (E gene) in the Cy5 channel (black line). Examples for a positive and negative rRT-PCR result. A SARS-CoV-2 negative sample ((A); ID 17) show a signal in the control RNA specific HEX channel (orange line) and process control channel ROX channel (green line). A SARS-CoV-2 positive sample ((B); ID 5) shows additionally a SARS-CoV-2 specific amplification in the FAM channel (red line) and beta-Coronavirus detection (E gene) in the Cy5 channel (black line). Viruses 2020, 12, Examples for a positive and negative result of the commercial MS assay. In the sum spectra (A,B) the expected mass peaks for the respective amplicons are highlighted with a dashed line. In the negative case (A, ID 17) peaks of unextended primers are observed (UEP). In the positive case (B, ID 5) peaks for amplicons of the ORF1ab, ORF1, N1, N2 and N3 can be identified. Zoomed spectra of these amplicons are depicted in (C).",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Examples for a positive and negative result of the commercial MS assay. In the sum spectra (A,B) the expected mass peaks for the respective amplicons are highlighted with a dashed line. In the negative case (A, ID 17) peaks of unextended primers are observed (UEP). In the positive case (B, ID 5) peaks for amplicons of the ORF1ab, ORF1, N1, N2 and N3 can be identified. Zoomed spectra of these amplicons are depicted in (C).",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "Targets of the MS assays.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "Time-to-results and hands-on-time of the rRT-PCR and the commercial MS assay.",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": []
+}
