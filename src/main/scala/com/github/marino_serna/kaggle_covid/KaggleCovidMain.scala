@@ -12,7 +12,8 @@ import org.apache.spark.sql.functions._
 import org.apache.spark.sql.types.StringType
 import org.apache.spark.sql.functions.input_file_name
 import com.databricks.dbutils_v1.DBUtilsHolder.dbutils
-import com.johnsnowlabs.nlp.embeddings.UniversalSentenceEncoder
+//import com.johnsnowlabs.nlp.embeddings.UniversalSentenceEncoder
+import org.apache.log4j.{Level, LogManager}
 import org.apache.spark.ml.feature.StopWordsRemover
 import org.apache.spark.sql.SparkSession
 //import org.elasticsearch.spark.sql._
@@ -22,65 +23,73 @@ import org.graphframes._
 object KaggleCovidMain {
 
   def main(args: Array[String]): Unit = {
-    println(args)
 
     val ss: SparkSession = SparkSession.builder().enableHiveSupport().getOrCreate()
     val path = args(0)
 
-    kaggleETL(ss: SparkSession, path:String)
+    kaggleETL(ss, path)
   }
 
   def kaggleETL(ss: SparkSession, path:String)={
+    val log = LogManager.getRootLogger
+
+    log.setLevel(Level.INFO)
+    log.info(s"Path: ${path}")
     val dfRaw = readRawData(ss, path)
 
     val dfFilterLang = filterEnglish(ss: SparkSession, dfRaw:DataFrame, path)
 
     val timestampST = LocalDateTime.now.format(DateTimeFormatter.ofPattern("YYYYMMdd_HHmmss"))
-    val fileName = s"$path/har/kaggles_$timestampST.parquet"
+    val fileName = s"$path/output/kaggles/$timestampST.parquet"
     writeParquet(dfFilterLang, fileName)
-
+    log.info(s"Filter English documents, file can be found in: ${fileName}")
 
     val dfLoaded = readParquet(ss, fileName)
-    dfLoaded.show()
 
     val dfCleanWords = stopWords(ss, dfLoaded)
     dfCleanWords.show(20, false)
     writeElasticSearch(dfCleanWords, "kaggle/abstract")
+    log.info(s"StopWords Done. The file should be send to ElasticSearch in to: kaggle/abstract, but it is not.")
 
     val dfFrequency = frequentWord(dfCleanWords,"abstract","topWord")
-    dfFrequency.show()
+    val wordFrequencyFileName = s"$path/output/wordFrequency/$timestampST.parquet"
+    writeParquet(dfFrequency, wordFrequencyFileName)
+    log.info(s"Word frequency, file can be found in: ${wordFrequencyFileName}")
 
     val gf = authorGraph(ss, dfRaw)
 
     val dfRankedAuthors = degreeCentrality(gf)
-    val rankedAuthorsFileName = s"$path/har/rankedAuthors_$timestampST.parquet"
+    val rankedAuthorsFileName = s"$path/output/rankedAuthors/$timestampST.parquet"
     writeParquet(dfRankedAuthors, rankedAuthorsFileName)
+    log.info(s"Ranked Authors, file can be found in: ${rankedAuthorsFileName}")
 
-    val rankedSimilarity = compareDocumentSimilarity(ss, dfRaw, "000a0fc8bbef80410199e690191dc3076a290117")
-
-    val rankFileName = s"$path/har/rankedSimilarity_$timestampST.parquet"
-    writeParquet(rankedSimilarity, rankFileName)
+//    val paper_id = dfRaw.select("paper_id").take(1)(0).getString(0)
+//    val rankedSimilarity = compareDocumentSimilarity(ss, dfRaw, paper_id)
+//
+//    val rankFileName = s"$path/output/rankedSimilarity/$timestampST.parquet"
+//    writeParquet(rankedSimilarity, rankFileName)
+//    log.info(s"Ranked similarity for the paper: $paper_id, The file can be found in: ${rankFileName}")
 
     moveFiles(dfFilterLang,path, "processed")
   }
 
   def moveFiles(df:DataFrame, path:String, folder:String) ={
-    df.show(10)
-    df.select("filename").foreach(x => {
-      val inputFile:String = x.get(0).toString
+    df.select("filename").collect().toList.map(_.getString(0)).foreach(inputFile => {
       val outputFile = inputFile.replace("/input/",s"/$folder/")
-      if(inputFile.startsWith("dbfs:")){
+      println(s" $folder => move file from $inputFile to $outputFile")
+      if(inputFile.contains("src/test/resources")){
+        println(s" Ignored in unit testing")
+      }else{
         dbutils.fs.mv(inputFile,outputFile)
-      }else{ // unit tests
-        println(s" $folder => move file from $inputFile to $outputFile")
       }
     })
+
   }
 
   def readRawData(ss: SparkSession, path:String):DataFrame ={
     val df = ss.read.option("multiline", "true").json(s"${path}/input/*")
       .withColumn("filename", input_file_name)
-
+    df.show()
     if(df.schema.fields.map(_.name).contains("_corrupt_record")){
       moveFiles(df.filter("_corrupt_record is not null"),path, "error")
       df.filter("_corrupt_record is null").drop("_corrupt_record")
@@ -203,54 +212,52 @@ object KaggleCovidMain {
 
   }
 
-  def compareDocumentSimilarity(ss: SparkSession, df:DataFrame, paperId:String):DataFrame ={
-    import ss.implicits._
-
-    val dfBody = df.withColumn("similarityDocument", $"abstract.text".cast(StringType))
-
-    val targetDocument = dfBody.filter($"paper_id" === paperId).select($"similarityDocument".as("similarityDocumentTarget"))
-
-
-    val dfBodyTargeted = dfBody
-      .crossJoin(targetDocument)
-      .withColumn("similarityDocument",concat_ws(" ", $"similarityDocumentTarget", $"similarityDocument"))
-      .select($"paper_id", $"similarityDocument")
-
-    val model_name = "tfhub_use"
-
-    val documentAssembler = new DocumentAssembler()
-      .setInputCol("similarityDocument")
-      .setOutputCol("document")
-
-    val sentenceEncoder = UniversalSentenceEncoder
-      .pretrained(model_name)
-      .setInputCols("document")
-      .setOutputCol("similarityScore")
-
-    val pipeline = new Pipeline()
-      .setStages(
-        Array(
-          documentAssembler,
-          sentenceEncoder
-        )
-      )
-
-    val pipelineModel = pipeline.fit(dfBodyTargeted)
-    val pipelineDF = pipelineModel.transform(dfBodyTargeted)
-
-    pipelineDF.write.mode(SaveMode.Overwrite).json("src/test/resources/har/test.json")
-
-    val rankedSimilarity = pipelineDF
-      .select(col("paper_id"), explode($"similarityScore.embeddings").as("mark"))
-      .select(col("paper_id"), explode($"mark").as("mark"))
-      .groupBy("paper_id")
-      .agg(
-        avg("mark").as("avgMark"),
-        stddev("mark").as("stdDevMark"))
-      .orderBy(desc("avgMark"))
-
-    rankedSimilarity
-
-  }
+//  def compareDocumentSimilarity(ss: SparkSession, df:DataFrame, paperId:String):DataFrame ={
+//    import ss.implicits._
+//
+//    val dfBody = df.withColumn("similarityDocument", $"abstract.text".cast(StringType))
+//
+//    val targetDocument = dfBody.filter($"paper_id" === paperId).select($"similarityDocument".as("similarityDocumentTarget"))
+//
+//
+//    val dfBodyTargeted = dfBody
+//      .crossJoin(targetDocument)
+//      .withColumn("similarityDocument",concat_ws(" ", $"similarityDocumentTarget", $"similarityDocument"))
+//      .select($"paper_id", $"similarityDocument")
+//
+//    val model_name = "tfhub_use"
+//
+//    val documentAssembler = new DocumentAssembler()
+//      .setInputCol("similarityDocument")
+//      .setOutputCol("document")
+//
+//    val sentenceEncoder = UniversalSentenceEncoder
+//      .pretrained(model_name)
+//      .setInputCols("document")
+//      .setOutputCol("similarityScore")
+//
+//    val pipeline = new Pipeline()
+//      .setStages(
+//        Array(
+//          documentAssembler,
+//          sentenceEncoder
+//        )
+//      )
+//
+//    val pipelineModel = pipeline.fit(dfBodyTargeted)
+//    val pipelineDF = pipelineModel.transform(dfBodyTargeted)
+//
+//    val rankedSimilarity = pipelineDF
+//      .select(col("paper_id"), explode($"similarityScore.embeddings").as("mark"))
+//      .select(col("paper_id"), explode($"mark").as("mark"))
+//      .groupBy("paper_id")
+//      .agg(
+//        avg("mark").as("avgMark"),
+//        stddev("mark").as("stdDevMark"))
+//      .orderBy(desc("avgMark"))
+//
+//    rankedSimilarity
+//
+//  }
 
 }

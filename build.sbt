@@ -29,12 +29,19 @@ libraryDependencies ++= Seq(
   "org.apache.spark" %% "spark-hive" % sparkVersion % "provided",
   "org.scalatest" %% "scalatest-funsuite" % "3.2.2" % Test,
   "org.scalatest" %% "scalatest-shouldmatchers" % "3.2.2" % Test,
-  "com.johnsnowlabs.nlp" %% "spark-nlp" % "2.6.3" % "provided",
+  "com.johnsnowlabs.nlp" %% "spark-nlp" % "2.6.3",
   "org.apache.spark" %% "spark-mllib" % "2.4.7" % "provided",
   "com.databricks" %% "dbutils-api" % "0.0.4",
   "commons-httpclient" % "commons-httpclient" % "3.1",
-  "graphframes" % "graphframes" % "0.8.1-spark2.4-s_2.11" % "provided"
+  "graphframes" % "graphframes" % "0.8.1-spark2.4-s_2.11"
 //  "org.elasticsearch" %% "elasticsearch-spark-20" % "7.9.3"
 )
+
+assemblyMergeStrategy in assembly := {
+  case PathList("META-INF", xs @ _*) => MergeStrategy.discard
+  case x => MergeStrategy.first
+}
+
+addArtifact(artifact in (Compile, assembly), assembly)
 
 resolvers += "bintray-spark-packages" at "https://dl.bintray.com/spark-packages/maven/"
